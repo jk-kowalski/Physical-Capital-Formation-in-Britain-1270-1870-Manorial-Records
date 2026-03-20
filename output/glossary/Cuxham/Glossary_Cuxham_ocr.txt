@@ -1,0 +1,1276 @@
+The following  list comprises:  FEA scene
+1. Notes  on the transcription  and extension  of particular  words  and
+from  the forms  found  in the manuscripts,  as described  on pp. 8-10. The  evidence  f
+the texts  for a particular  usage  is given  in parentheses,  beginning  ‘M
+‘etc.’  the examples  given  are all that  have  been  noted.
+2. A glossarial  index  to all words  or spellings  that  are not included  in either  C. T. Lewis
+and C. Short,  Latin  dictionary  (1879)  or R. E. Latham,  Revised  medieval  Latin  word-list
+(1965);  these  words,  printed  in bold  type,  thus  include  all English  words  found  in the texts
+as well as all unrecorded  Latin  words  or spellings.  Omitted  from  this glossarial  index  are
+(i) words  that form  part  of the name  of a person  or place;  (ii) words  or spellings  that  are
+probably  clerical  errors  and are noted  (with  or without  question-mark)  in the footnotes  to
+the text;  (iii) words  made  up of a preposition  and a noun  written  together  (e.g.  ‘inmorina’)
+unless  they  are clearly  regarded  as a single  compound  word;  (iv) any words  included  in
+Latham,  op. cit., even  though  they  are recorded  there  only  from  a different  period  or from
+glossaries.
+The  case,  number,  etc.,  of cited  words  are given  only  where  these  are known  from  the
+external  evidence  of the context,  not just  from  the form  of the word  itself.  Where  a word  is
+cited  in italics  it is understood  to cover  all inflexions.  References  are to the numbers  of the
+documents;  in the case  of accounts  a note  of the relevant  paragraph  is added  in parentheses.
+For the abbreviations  used  in references  to dictionaries,  etc.,  see pp. xv-xvi.
+A. INDIVIDUAL  WORDS
+absens:  absent.  ass’  105,  109,  111 may  represent  a form  of this  word.
+acer,  etc.:  steel.  Hand  xii writes  are’,  arcerr?  gen.  s. 58-63  (costs  of ploughs  in each).  For
+hands  vi, xxi, xxviii  extended  as 2nd  decl.  (MSS.:  ‘asseri’  gen.  s. 68 (costs  of ploughs);
+‘acero’  abl. s. 31 (exp.),  57, 80 (costs  of ploughs  in each)).  For  other  hands  extended  as
+3rd decl.  though  there  is evidence  for this  only  in hands  v, xxiii  (MSS.:  ‘acerem’,  ‘accerem’
+acc.  s. 75, 81 (costs  of ploughs  in each);  'aceris'  gen.  s. 71, 81 (costs  of ploughs  in each);
+‘acere’  abl.  s. 30, 73, 75, 77, 78 (costs  of ploughs  in each)).  For  hand  xii extended  with  rr
+(MS.:  ‘Arcerr’’  gen.  s. 58 (costs  of ploughs)).  Hand  xxi once  writes  ‘asserr’’,  67 (for.  exp.),
+but ‘asseri’  on 68 (costs  of ploughs),  so extended  with  single  r.
+acquieto:  to acquit.  aquetabimus  fut.  indic.  17.
+Adam:  man's  name.  Extended  thus  in nom.  s. (MSS.:  ‘Adam’  nom.  s. 19, 92, 115,  146,  etc.).
+‘Ada’  nom.  s. occurs  on 4, ‘Adam’  gen.  s. on 58 (customary  rents).
+adiunct-:  addition  (of livestock  from  one  grade  to another).  For  hand  xvii  extended  as
+adiunctum,  sing.  if a single  item,  pl. if more  than  one  (MS.:  'adiunctis'  abl.  pl. 64 (chicks)).
+For other  hands  extended  as adiunctura,  followed  where  necessary  by gen.,  though  there  is
+evidence  for this  only  in hand  xxiii  (MSS.:  ‘de adiunctura  annalium’  70 (young  oxen);
+ete.)
+admonitio:  admonition.  admoniscione  abi.  5. 88.
+afferator,  affirator:  affeerer.  Never  extended  on the MSS.  "affi"  extended  to affiratores,
+‘affer’’,  'aff"'  to afferatores.
+mee  draught  horse.  Never  extended  on the MSS.  in nom.  s., but ‘affr’’  nom.  s. occurs  on
+,.133.
+375
+
+“harvest exp.),  but ‘allec”’ gen. or abl. on 62 (petty  exp.) and
+writes ‘allec’ acc. on 78 (visitors!  exp., oats).
+hand xvii extended to allocancia  (MSS. : ‘allocancia’  abl. s. 64 (reeve's
+allowances);  etc.). For other hands extended  as allocacio  et id were  mot S
+totals). In both cases followed  where necessary  by gen. (MSS.:  "in a ind ipid i
+(reeve's  allowances);  etc.). Hand  xxiii once writes  'allocanciam'  acc. s. on 54, and 'Alloc
+petenda’  as heading  on 79 (reeve’s  allowances).
+alloco:  to allow.  alicantur  pres. indic. 79 (note after cash balance).  €
+alter, altera,  alterum:  other.  Hand  xii possibly  writes  alteri masc.  gen. s. 58 (mixed  corn):  see
+t abl., ameroke abl.: mayweed  (KMED amarusca,  ameroch),  57 (petty exp.), 68
+(hoeing  and mowing).  “i
+anas:  duck.  Hand  xxi writes  anate  nom. pl. 67, 68 (ducks  in each).  For hand  xii taken  to be
+masc.  on 60, 61 only (MSS.:  ‘antiqui’  60 (ducks),  ‘duo’  61 (issue  of ducks),  but ‘quarum’
+62 (ducks)).
+angnos,  see  agnus.
+antecessor:  predecessor.  antesessoribus  ab/. pl. 16.
+aper:  boar.  apr’  nom.  s. 59 (pigs)  and,  possibly,  62, 66 (boars  in each).
+appretio:  to value.  apresciatur  pres.  indic.  106.
+aquetabimus,  see acquieto.
+are’,  arcerr’,  see acer.
+arcus:  ox-bow.  'arcubus'  abl.  pl. occurs  (correctly)  on 81 (costs  of ploughs).
+armiger:  squire.  armigerii  gen.  s. 70 (oats,  capons),  but  ‘armigeri’  gen.  s. also  occurs  on 70
+(visitors'  exp.).
+arreragia  neuf.  pl: arrears.  Extended  throughout  to pl. (MSS.:  ‘arreragiis’  abl.  pl. 36:
+‘pro  arr’  suis’  50 (heading);  *Arreragia"  nom.  pl. 72 (arrears);  etc.).
+assis-:  assessed.  Extended  throughout  as an adjective  (MSS.:  ‘de redd’  assiso’  62 (pepper);
+“de toto  redditu  assiso'  81 (rents);  ete.)
+attachiamentum:  attachment.  Never  extended  on the MSS.  beyond  ‘attachiam’’
+occurs  on 145,, which
+attachio:  to attach.  Extended  throughout  to appropriate  part  of verb  in -io,  Ist conj.  (MSS.:'athachiatur'  104;  ‘attachiatus’  105;  ‘attachiasse’  107;  ‘attachiauit’  112;  etc.).
+auca:  goose.  For  hands  vi, xii extended  to aucca  (MSS.:  ‘aucce’  nom.  pl. 57 (geese);  ‘auccis’
+abl. pl. 62 (sale  of stock);  etc.).  For other  hands  extended  to auca.  Hand  xii once  writes
+'aucis'  abl.  pl. 59 (oats).
+aucul-:  gosling.  Extended  throughout  to aucula  (MSS.  : ‘ ? i-: 'aucule'  nom. pl. 7 ; 'aucula nom.  s. 81 (geese)).  Hand  xvii writes  auculor  oO ea ce xxiii may once have written  auculi  nom, pl. ih aay  pl. 65, 66 (oats in each),  and hand
+auget"  nom.  s.: small  trough,  48.  :auncella:  balance.  auncer’  nom.  s. 48.
+ausilio,  see auxilium.
+ap  iin  of harvest,  Extended  throughout  to forms  in p (no  case  without  on pie  S bie  Vill,  Xll, XV, XXV,  xxx.  extended  to autumpnalis  (MSS.  : autumpnalibus m  cH  arvest exp.); autumpnales nom,  pl.  40,  51;  auttumpnalibus
+ ab/.  pl.  59 85);  etc.).  For  other  hands  extended  to ‘autumpni’ (MSS.:  ‘autumpni’ 66 (cheese).Je ¢(sa ;
+axo Ist ¢
+57 (co
+of car
+paces  al
+baco:  P!
+(issue
+baiardu
+baillium
+baptista
+barres  ¢
+bastum
+le bay  8
+bere  ab
+sb?),
+berefec!
+chica
+beret
+(Har
+vetct
+oats)
+with
+le bern
+berton’
+34
+beruec
+besca:
+betles
+bienhu
+plo
+billa :
+pl. f
+bitum,
+tob
+bitury
+bladu;
+€ac]
+"bla
+Hay
+‘Say
+exp
+tc,
+bok a,
+‘Ord.
+&xp
+
+service), 86. -axo Ist conj.: to fit with axles. axend' ger. masc. or neut. abl. s.
+57 (costs  of carts).  For  hand  xxiii  extended  to axio,  Ist conj.  (
+of carts);  etc.).
+baces  abl.  pl.:  saddle-pads  (Drew,  Notes),  71, 81 (costs  of carts  in each).
+baco:  preserved  pork  or side,  haunch  of preserved  pork.  Hand  xxi writes  baconi  gen.  s. 67
+(issues  of manor,  bacon),  68 (bacon),  but ‘baco’  nom.  s. 67, 68 (bacon  in each).
+baiardum:  hand-barrow.  bahor’  abi. 74 (for.  exp.).
+baillium:  bail,  security.  ballivus  nom.  s. 120,  ballivi  nom.  pl. 133.
+baptista:  the Baptist.  babtiste  gen.  61 (sale  of wheat).
+barres  acc.:  bars  of window  (OED  bar sb!),  66 (petty  exp.).
+bastum:  bast.  barst’  ab/.  66 (petty  exp.).
+le bay gen.:  mill-dam  or mill-race  (OED  bay  sb>;  KMED  bai n (4)),  77 (costs  of mill).
+bere  ab/.(?):  barley  or berevechicorn,  mixed  corn  of vetch  with  barley  or dredge  (OED  bear
+sb?),  82 (dredge  with  vetch).
+berefechicorn,  bereuecch’,  bereuecchicorn’,  berevecchycorn’,  bereuech’,  bereuech'corn,  bereue-
+chicorn’,  bereue  chycorn,  bereuechycorn,  bereuechycorn’,  bereuechycurn’,  bereueschcorn’,
+bereueschicorn’,  bereuesschicorn’,  beruech’corn:  mixed  corn  of vetch  with  barley  or dredge
+(Harvey,  Med.  Oxf.  vil., pp. 49-51),  54, 73 (berevechicorn,  oats),  74 (vetch),  78 (peas  with
+vetch,  berevechicorn,  oats),  79 (threshing),  80 (sale  of corn,  threshing,  peas,  berevechicorn,
+oats),  82 (dredge,  dredge  with  vetch),  83 (berevechicorn  with  oats),  84 (dredge),  85 (barley
+with  dredge,  vetch  with  berevechicorn).
+le bernheys  acc.:  barn-yard  (Harvey,  Med.  Oxf.  vil., pp. 34-5),  71 (petty  exp.).
+berton’  gen.,  abl.,  bertona  abl.,  bertone  gen.,  abl.:  barn-yard  (Harvey,  Med.  Oxf.  vil., pp.
+34-5),  65, 72, 73, 76, 78, 81 (petty  exp.  in each).
+beruech'corn,  see berefechicorn.
+besca:  spade.  besse(?)  gen.  s. 68 (petty  exp.).
+betles  abl. pl.: wooden  hammers  (OED  beetle  sb*), 67 (costs  of mills).
+bienhurth’  gen. s.: ploughing  boon-work  (KMED  beneerthe,  sub bene n (2)), 83 (costs  of
+ploughing  boon-works).
+billa:  bill, receipt.  Extended  throughout  to sing.  unless  context  unambiguously  demands
+pl. form;  cf. tallia.
+bitumen:  tar. butiminis  gen.  s. 78 (costs  of fold).  ‘bit’’  with  case-ending  extended  throughout
+to bitumen.
+biturum,  see butyrum.
+bladum:  corn.  Extended  throughout  to sing.  (MSS.:  ‘Vend’  bladi’  57, 78 (sale  of corn  in
+each);  'Mixt'  cum  alio blado’  68 (peas);  ‘in blado  domini"  95; etc.).  Hand  xvi, referring  to
+‘blad”’  writes  ‘in eisdem'  89, ‘illa’  acc. pl. 91, but also writes-'de  blado  dominorum'  91.
+Hand  xxix writes  ‘conc’  blada  domini'  140, but ‘in blado  domini'  134, etc. Hand  xxx writes
+‘Sarclacio  bladorum’  82-85  (costs  of hoeing),  ‘in omnimod'  blad'  dominicis'  84 (harvest
+exp.),  ‘pro bladis  intrand’’  85 (for. exp.),  but ‘Vendicio  bladi’  83, 84 (sale  of corn  in each),
+etc. Other  cases  of plural  use on 13, 29, 32, 38.
+bok  abl.  s.: milk  pail  (OED  bowk),  62 (costs  of dairy).
+bord-:  board.  Extended  throughout  to borda  (MS.:  ‘dictas  bord’  et Lath’’  71 (for.
+exp.))..Laxiand""  ger. 72 (costs
+
+Ky (hé pe  í
+staris’  gen. s. 79 (repair  of
+eis  boots (OED boot sb3), 84 (for. exp.)-
+bott’,  see buttes.
+bou’,  see bos.
+iiu SERM ott Forms in -us occur for females, ‘Bouiculi’  nom. pl. 74 (boviculi),oviculus:  year-old calf.  Fe : A*bouiculus  fe’ nom., ‘bouiculo  fe’ abl. 82 (boviculi)  ‘brasii’  gen. s. 35 (wheat);i. viii i MSS. :-: malt. For hands vi, viii, x, extended  to brasium  ( js
+ee  abl. s. 36, 57 (wheat)). For other hands extended  to braseum (MSS.: *braseo
+abl. s. 59 (barley);  'braseum"  nom. s. 68 (malt);  etc.).
+brasina:  a brew.  bracineo  ab/. s. 112, bratineo  ishae 1 s T
+brodges  nom.  pl.: broodgeese  (KMED  brodgos  sub bro: meet  .
+brot pei ir sweepings  of corn (Harvey,  Med. Oxf. vil., p. 47), 66 (currall,  vetch with
+ulse,  oats),  81 (brot).  ‘ 1
+M AE etc.: bucket. boukett"  ab/. pl. 63 (costs of dairy). Extended  throughout  to forms in
+-um (MS.:  ‘boketto’  abl. s. 81 (petty  exp.)).  :
+bursar-:  bursar.  Extended  throughout  to plural,  bursarii,  unless  context  unambiguously
+demands  sing.  form  (MS.  : payment  to ‘Bursar’’  by tally  ‘contra  eosdem"  71 (cash  liveries)).
+burze  acc.:  dish  of minced  meat  (?: KMED  burseu;  cf. Documents  illustrating  the rule  of
+Walter  de Wenlok,  ed. Barbara  F. Harvey  (Camden  4th  ser.,  vol.  ii; 1965),  p. 249),  35
+(petty  exp.).
+busc-,  etc.:  firewood.  Extended  throughout  to sing.  forms  in -a (MSS.:  ‘busca’  abl.  s. 71
+(for.  exp.);  ‘pro  busc'  emenda’  77 (visitors’  exp.)).
+bussell-:  dry measure,  bushel.  For  hand  xxx  extended  to bussellum  (MS.:  ‘viijTM  bus’’  nom.  s.
+84 (wheat)).  For  other  hands  extended  to forms  in -us,  though  no evidence  of gender  on
+the MSS.  except  "vnius  busselli'  on 97. In amounts  of corn,  etc.,  standardized  as ‘bus.’  (seep. xvii).
+bussellus:  bushel  measure.  bossell’  nom,  pl. 48.
+butiminis,  see bitumen.
+buttes  acc.  pl., abl.  pl., butt"  abl.  pl., bott?  abl.  1: 6exp.), 85 (rents and farm), 102, | Ril  a tenth  are
+butto  (super):  to abut.  butt’  in pres.  part.(?)  28.
+Net  abl. s. 45 (receipts),  58, 60-62,  72-75  (sale  of dairy  produce  in each).
+calciament-,  etc.:  footwear.  Hand  vi writes  calsi:
+calciatur-,  etc.:  footwear.  chausur’  aJ.  3 iur-,
+ 
+.  
+:  
+- 30 (winter
+ wa calciature  (MS.:  ‘pro Calciatur’  Suis’  82 (note  after both  write  ‘calciatura’ ab],  on 52)calig-:  Stockings. Extended throughout to pl., calige  (MS.  :8es).  Extended  throughout  to pl.,
+cash  balance)).  Hands  xxiii,  xxvii,
+calsiamenta,  see calciament-  “caligis’  abi.  56). calx:  limestone or lime  calxi- calxis buildings)  Sen.  s. 68  (costs  of  new  Stanary);  clax’  gen.  s. 60  (repairs  of
+
+vamnab,  ete: eun. Where. clearly a 1
+terminal  -us (MSS.:  ‘canabi’  gen. s. 66 (petty  Xp.
+cantall’  ab/.,  cantell’  ab/.:  increment  from  heaped  corn-measure  (Harv
+p. 54), 81 (wheat,  barley,  dredge,  peas,  vetch,  berevechicorn).  _cap-: capon.  For hand xii extended in nom. s. to caponis  (MSS.:  capo  nom. S. 58-60,  63
+(capons  in each);  ‘capone’  abi. s. 62 (sale  of stock)).  For  other  hands  extended in nom.  s.
+to capo  (MSS.:  ‘capo’  nom.  s. 69 (visitors’  exp.);  etc.).
+capellanus:  chaplain.  Hand  xvii twice  writes  capellanis  gen.  s. 65 (Warden's  expenses),  but
+*capell'i'  gen.  s. 65 (oats),  66 (for.  exp.,  oats).
+capio:  to take.  For hand  xxx extended  to pres.  part.  in phrases  as ‘capient’  inter  se per
+noctem  ix garbas',  written  thus  on the MS.,  84 (oats).
+capistrum:  halter.  Never  extended  on the MSS.
+capitulo  abl. s.: meeting  of Merton  College  to audit  accounts  (Lowry,  Est. Mert.  Coll.,
+p. 20),  40, 60 (oats).
+caput  neut.:  head,  top.  cap'm  acc.  59 (petty  exp.).
+carcasium,  carcosium:  carcass.  Never  extended  on the MSS.
+carett-,  etc.:  cart.  carracta  abl.  s. 58 (equipment).  Extended  throughout  to forms  in -cta,  with
+single  r unless  rr written  on the MS.  For  hand  xii extended  in headings  to sing.,  carecta
+(MSS.:  ‘De Cust’  carrecte’  62 (costs  of carts);  etc.).  For other  hands  extended  in headings
+to pl., carecte  (MSS.:  ‘Custus  carectarum'  68 (costs  of carts);  *Custus  Carectarum’  72
+(costs  of carts);  etc.).
+carettarius,  etc.:  carter.  Extended  throughout  to forms  in -ctarius,  with  single  r unless  rr
+written  on the MS.  (MSS.:  ‘carrectar’’  gen.  s. 63 (visitors’  exp.);  etc.
+cariag-:  carrying  service  or cart.  ‘cariag’  extended  throughout  to sing.  cariagium  (MS.:
+‘cariagio’  abl.  43).
+caro:  meat.  carnibus  grossis  ab/.:  meat  from  animals  (as against  poultry,  fish),  56. Extended
+throughout  to sing.,  probably  incorrectly  as all extended  forms  on the MSS.  are pl.
+(MSS.:  ‘carn’’  nom.  82 (cows);  ‘Carnibus’,  ‘carnibus’  abl. 51, 56, 73 (visitors’  exp.),  78
+(costs  of fold)).
+cartere  gen.:  carter  (OED  carter!),  85 (equipment).
+cartsoulles  ab/. pi.: stakes  used  for sides  of cart (see sowelis),  71 (costs  of carts).
+caruca:  plough.  Extended  throughout  in headings  to pl. (MSS.:  ‘Custus  carucarum’  67,
+68, 72 (costs  of ploughs);  ‘Custus  carucar’’  78 (costs  of ploughs)).  See also tenentium  car’.
+carucarius:  ploughman.  The ‘carucar’’  who  sowed  corn,  never  extended  on the MSS.,
+extended  throughout  to sing.
+cas-:  cheese.  Extended  throughout  to caseus  taken  to mean  ‘a cheese’,  not the collective
+‘cheese’  (MSS. : ‘Item  xvij casei’  nom.  pl. 56; ‘Casei’,  ‘casei’  nom.  pl. as heading  67, 68
+(cheese  in each)).  But hand  xvii once  writes  ‘dimiserunt  facere  caseum’  64 (sale  of dairy
+produce),  and hand  xxv ‘casio’  abi. s., probably  relating  to more  than  one cheese,  51. Where
+hand  xvii writes  ‘vtroque  die vnum  caseum’,  66 (cheese),  ‘caseum’  is probably  acc. s.,
+not nom.  s. of a neuter  caseum,  in view  of ‘omnes’,  not ‘omnia’  on 64-66  (cheese  in each).
+cathedra:  chair.  cahedre  nom.  pl. 48.
+cementarius:  mason.  cimentatoribus  ab/. pl. 67 (costs  of buildings).
+ceng’l’,  see scindula.
+centum:  hundred.  Extended  throughout  as indeclinable.  Hand  x writes  ‘cento’  abl. s. 35.
+See  also  minor.
+ceras-,  etc.:  cherry  or cherry-tree.  cericiis  ab/. 57 (issues  of manor);  cerul’  acc. 58 (petty  exp.).
+Extended  throughout  to forms  in -um.
+cerculacio,  cerculacione,  see sarculatio.
+
+! Y ple ete ; MSS.plo extended  on theC : share-beam  (of plough).  Never e i
+ata  s.: chisel or pointed blade sacs ipm
+| eeseli 2 (co 5
+pea ewes cee  chough), 58 (mixed corn).i .: birds of the crow ia can:
+cms Shui so NI e ean cg i a iin of haircloth (for
+ilicij : haircloth 69 (petty  exp.). cilicium  nom. 5. 4 er
+MK T us es Ei (petty exp., equipment),  89 (equipment),  63 (petty exp.).
+cimentatoribus,  see cementarius.
+circa:  for the purpose  of, 77 (for. exp.).
+circulac’,  see sarculatio.
+cito: quickly.  sito 78 (visitors’  exp.).
+clamo:  to claim.  See quietum  clamo.
+clamor  nom. s.: announcement  or rumour,  72 (for. exp.). .
+clarus:  net, clear (of accounts).  de claro: net, clear, 40, 64, 65, 82 (cash balance  in each).
+clat-, etc.: hurdle.  crater’  ab/. 31 (petty  exp.);  cratibus  ab/. pl. 69-71  (petty  exp. in each).
+Extended  throughout  to forms  in -a (MSS.:  ‘claias’  acc. pl. 48; 'vna clad""  abl. s. 59 (costs
+of carts)).  Hand  xxiii once writes  ‘cratibus’  ab/. pl. 69 (petty  exp.).
+clavig-:  keeper  of the keys,  treasurer  or cellarer.  clauigeri  gen. s, clauiger’  gen.:  reap-reeve,
+hayward,  84 (harvest  exp.).  Extended  throughout  as claviger  2nd decl.
+clavis:  key.  claui  ab/. s. 66 (petty  exp.).
+clavus:  nail.  clauuis  albis  ab/.  p/.:  tin-coated  nails  (Salzman,  Build.  in Eng.,  p. 308),  65 (costs
+of buildings).  clau'  equin’  ab/.  p/.:  horse-shoe  nails,  80 (costs  of ploughs),  81 (costs  of
+Shoeing).  Extended  to pl. unless  context  makes  sing.  likely.
+clax’,  see calx.
+cleies  ab/.  pl.:  hurdles  (KMED  cleie),  66 (petty  exp.).
+cleppeles  ab/.(?)  pl.:  fasteners,  couplings  (KMED  clippel),  66 (costs  of carts).
+cleu'  acc.:  part  of a cart  (no  related  word  traced),  61 (costs  of carts).
+clofbord  abl.  pl.:  boards  made  by splitting  instead  of sawing  (Salzman,  Build.  in Eng.  p. 243)71 (for.  exp.).  :
+» ng on patches  of iron  (Salzman,  Build.  in Eng.,  p. 311),  35, 61,65, 67, 68, 82 (costs  of carts i acts,  s in each),  83 (costs  of carts,  petty  exp.),  84, 85 (costs  of carts
+clut-:  clout,  iron  patch  to protect  woodwork.  glut’
+throughout  to forms  in -um  though  never  exten
+nom.  pl. occurs  on 48, and  ‘eosdem’  on 80PU
+ 
+j 
+>  
+Costs
+ of  
+i claui clut’, claui ad clut’, in which  never que  a KC eee  C coagulationis  gen.  s.: cheese-makin Le airy produce£g (GMI.  oagulus),  65 (sales  i yp Ccoepo:  to begin.  seper’  3rd pers.  pl. perf.  indic.  61 (sales  Pii  pr Mui  àcogges  abl. pl.. cougges  abl, pl. :mill in each).  P1 C08 or cog-Wheels  (K MED cogge  n (2)), 70. 77. 78 (costs  of
+cogwel  acc.  s.: cog-ace.  $.: cog-wheel (KMED Cogge n (2)),  68,  73  (costs of  mill  in each)Coll-:  neck.  If context  Shows  i : S$ 1t means  ‘neck’  E :unless  // » Not  ‘collar’,  e: hth a written  on  the  MS.  (MS. : ‘colla’  ace.  Pl.  63,  66  Ni  validi Nm  Sd : S In each)).collar  um, etc.:  coll, wi i 
+Viar. Extended ith single  / unless // written on the  MS  N. Never  extendedabl.  pl. 60 (costs  of carts).  Extended
+ded  thus  on the MSS.  ‘vj noui  clut’’
+fully  on the MSS.
+
+See also pull-.
+colur abl. s., culur abl. s.
+each).
+communis:  common.  communi  ab/.:  communal  fine  or communal  1 :‘communi’  in phrase  de communi:  for common  suit, 90, 100, 101, 103, 109, 1
+(MS.:  ‘de communi’  103).
+companagium:  relish,  something  eaten  with  bread.  compenag?  abl. s. 57 (petty  exp.,  harvest
+exp.).  Extended  to sing.  throughout;  never  extended  on the MSS.
+compono:  to make.  conposuer’,  conpos’  perf.  indic.  used passively:  were  made,  58 (cheese).
+compot-:  account,  financial  statement.  compotum  acc.,  compoto  ab/.:  audit,  rendering  of
+account,  66 (oats),  67 (for.  exp.),  68 (for.  exp.,  oats,  capons,  hens),  70—72  (visitors'  exp.,
+oats,  in each),  73 (corn  bought,  visitors’  exp.,  oats).  Extended  throughout  to forms  in -us
+(MSS.:  ‘Compotus’  77, 80 (heading  in each)).  ‘Compotum’  nom.  s. occurs  on 63 (title  on
+dorse),  68 (heading).
+computo,  etc.:  to account  for. Extended  throughout  as computo.  Hand  xxiii  writes  'con-
+putat’’  past  part.  69 (oats,  cheese),  70 (cheese),  but also  ‘computatis’  past  part.  69 (cheese),
+‘computat’’  past  part.  70 (cheese).
+concedo:  to grant,  admit.  consessit  perf.  indic.  101.
+concessio:  grant.  concescionem  acc.  s. 12.
+condono:  to pardon.  Extended  to ‘condonatur’,  ‘condonantur’  in phases  as mis’  cond’.
+*condonetur'  occurs  on 93.
+conpos’,  conposuer’,  see compono.
+conqueror,  queror:  to complain.  'conquer'',  ‘quer’’  on court  rolls  extended  to ‘conqueritur’,
+*queritur'  (MSS.:  ‘conqueritur’  97, 103,  106;  ‘queritur’  105).
+consessit,  see concedo.
+consignand’  ger.:  to mark  (animals),  84 (costs  of sheep).
+consuetudo:  custom,  customary  due.  Extended  throughout  to sing.  in phrases  as consuetudo
+ville,  natiuorum,  manerij  (MSS.:  ‘secundum  consuetudinem  Manerii'  111;  etc.).  Followed
+by gen. where  the sense  is of payment  to someone  (MS.:  ‘in consuetudine  seminatoris’
+85 (wheat)).
+cooperio  4th conj.:  to cover.  cooperiand"  ger.  76 (hides).
+coperose  abl. s.: copperas  (OED  copperas),  62 (costs  of dairy),  64, 65 (petty  exp.  in each).
+corbell-:  basket.  Extended  throughout  to corbellus  (MSS.:  ‘in vno  corbell’’  59-61,  63
+(petty  exp.  in each)).
+corda:  rope.  Masc.  cordus  implied  by ‘vterque’  on 68 (costs  of carts).
+coreum,  etc.:  hide  or leather.  Extended  throughout  as coreum  (MSS.:  ‘coreo’  abl. s. 63 (costs
+of carts);  ‘Corea’  nom.  pl. 68, 81 (hides  in each);  etc.).  Hand  xvii writes  ‘corio’  ab/. s.
+64, 65 (costs  of carts  in each),  66 (issues  of manor,  costs  of carts),  but also 'Corei'  nom.  pl.
+66 (hides),  ‘coreis’  abl. pl. 66 (issues  of manor).  ‘alb’  cor’  extended  throughout  to sing.,
+album  coreum  (MSS.  ‘albo  coreo'  abl. 59 (costs  of carts);  etc.).
+coruelia  acc.  pl.: small  or young  birds  of the crow  family,  67 (petty  exp.).
+del cotemou  gen.,  del cotemouwe  gene,  cotemowe  gen.,  del cotemowe  gen.,  le cotemowe  ab/.,
+cotmuth  ab/.,  del cutemou  gen.,  cutmeys  ab/.  pl., cutmowe  gen.,  abl.,  cutmoye  abl.:  part  of a
+barn  at either  end  (Harvey,  Med.  Oxf.  vil., p. 36),  29, 32, 38, 68-71  (wheat,  currall,  in each),
+72 (wheat),  73, 74 (wheat,  currall,  in each),  75 (wheat),  77, 78 (wheat,  currall,  in each).
+couelys  gen.  pl.,  cuuel  nom.(?)  s.: tub  (OED  cowl  sb?),  37, 62 (petty  exp.).
+Cougges,  see  cogges.
+
+"Cristina",  nom.  131; "Cristine  B. out to erofa  (MSS.  "ie j cool Iure
+-: croft, t. eraftho abi. s. 5. Extended  thr à
+Ses : pre ...' 81 (issues of manor); ‘crofta’ abl. s. 103). p ur
+croftlond abl. land divided up into the name of a furlong (KMED
+croft-lond,  sub croft),  88.
+,. is, see gropa. ;
+Seeeo T m (of birds), 69-74, 77-79 (eggs in each), 81 (malt, geese, eggs).
+culur,  see colur.  à :
+cum prep. with abl.: with. ‘cum custus  fald’’ occurs  on 80 (petty exp.). See also onero.
+cumul-  noun or past part.: heaped  measure  or heaped.  In corn accounts  on 82-85,  extended
+to past part.,  ‘cumulato’,  in phrase  ‘viij®  bussello  cumul’’  otherwise  to pl. noun,  cumuli.
+eund" acc., cundam  acc.: right of inheritance  (OED  kind sb (1b)),  131, 132.
+cupe abl. s.: wicker  body of cart (KMED  coupe  n (1); cf. duccup  below),  85 (costs  of
+carts).  x D
+curallum,  corallum,  scurallum  and oblique  cases:  small  corn,  of wheat,  passim,  unless  another
+corn  specified,  as barley,  beans,  dredge  and  peas  59-61,  pulse  66 (Harvey  Med.  Oxf.  vil.,
+pp. 46-7).  Extended  throughout  to forms  in -allum;  never  extended  in nom.  s. on the
+MSS.
+MC  odi curles  ab/. pl.: curved  pieces  of wood  (?: OED  curb  sb(9),  curl  sb(2)),  68 (costs  of
+mill).
+curtana:  short  cart.  curtinam  acc. 58 (costs  of ploughs).
+custimarius,  etc.:  customary  tenant.  custim’  nom.,  cust"  acc.,  gen.:  customary  services,  61
+=  of oe  wheat,  Sutralb;  62 (sale  of works).  For  hands  x, xi, xvii,  xxiii,  extended  to
+P mus  M  mm  gm a.m.35 (wheat);  ‘Custumar’’  ab/. 42, 43; ‘Custum’’
+s ; etc.). For  other hands extended t 7 7 D i 29nom. 58 (sale of works);  etc.). Qo custimaris  (MSS.  : "Custimas
+custodia:  watch,  care.  Extended  thus  thro  qu WoGenes  ughout  (MSS.:  ‘custodie’  gen.  83 (geese),  85
+Custus:  cost,  expense.  Extended  as 2nd  decl.,  so : », SO that  E , iheadings  on the MSS. is taken  as sing. (MS.:  So t dis cee  Kx us in paragraph(harvest  exp.),  and ‘cum custus  falde’  on 80 (petty  exp à FU SO. Cos  abl eccenson  72cutemou,  cutmeys,  cutmowe,  cutmo  -cuuel,  see couelys.  oo
+daer  nom.  gen.,  dat.:  dai " 2
+; B£7., dat.: dairymaid  or dai tescorn and cheese paragraphs,  Tyman, 58-63 passim in wages, wheat, barley,daeria,  etc.:  dair y. Extended  throughout to forms  in -ia 4 yerie a daie  nom.,  en., le daie  gen.,  la daye  en.:  dairym:  id or 
+e =small  fields  or, possibly,
+mixed
+
+depositarius:  receiver.  Extended  | )
+‘depositariis’  67 (cash  liveries);  ‘eisdem’  84 (cash
+deseritisacione,  desheredationem,  see dishereditatio.
+dico: to say. discitur  pres. indic. 25, 27, 67 (barley).  - pm
+dies masc. or fem.: day. For hand xxiii on 6971 treated throughout  as masc. except with
+"proxim"",  the consistent  usage where extended  on these three MSS. (MSS.: 'a dicto die
+Lune’,  ‘a die Lune proxima",  70 (cheese);  etc.). Otherwise  treated  as in Classical  Latin,
+i.e. masc.  unless  it means  a set day. There  is great inconsistency  on the MSS.,  which  can be
+exemplified  from hand xvii by the cheese  paragraph  on 64, where  in almost  every case the
+gender  is clearly  indicated  on the MS., and from hand xxi by 'a dicto die dominica",  67
+(cheese).  In general  the MSS. tend to use masc.  where  classical  usage demands  fem.
+rather  than the opposite  (MSS. : ‘a die predicto'  59 (cheese);  ‘a xxvijTM  die Iulij' 80 (cheese) ;
+‘a xiij? die Aprilis'  81 (cheese);  etc.).
+dimid-:  half. Treated  throughout  as adjective,  dimidius,  -a, -um, not as noun, dimidium;
+no extended  examples  to the contrary  on the MSS.
+diminori,  see minor.
+discitur,  see dico.
+dishereditatio:  di .erison,  dispossession.  deseritisacione  abl. 103; desheredationem  acc.
+89.distr- noun or verb: distress  or distraint;  to distrain.  districciones  nom. pl. 129, 130; distrincio
+nom. s. 101; dristingatur  pres. subj. 89. On the court rolls extended  to ‘distrinccio’  in the
+margins,  to ‘distringatur’,  ‘distringantur’  in the body of the text wherever  this fits the
+context  (MSS. : ‘distrinccio’  94; ‘distringatur’  94, 106; etc.).
+do: to give. ‘dand’’ introducing  amount  given per unit extended  throughout  to ‘dando’
+(MSS.: ‘dando per noctem’  72 (oats); ‘dando pro singulis’  77 (threshing);  ‘dando pro
+quarterio’  84 (threshing);  etc.).
+domin- noun or adj.: demesne  lands; demesne  or of the lord. From abbreviated  forms with
+c extended  to adj., dominicus,  -a, -um, if there is an accompanying  noun, otherwise  to sing.
+noun dominicum  (MSS.: ‘in dominico'  27; ‘anunciacionis  d’nice’ 62 (wages);  'terr
+d’nica’ 145; etc.). ‘de d’nicis’ occurs on 145. From abbreviated  forms without  c extended
+throughout  to noun, dominium  (MS.: ‘dominio’  abl. 127).
+dominus:  lord of manor.  Extended  throughout  to sing. (the normal  usage of the documents
+although  Cuxham  had a corporate  lord).
+domus: house, building.  Extended  to *domos'  in acc. pl., ‘domorum’  in gen. pl. (MSS.:
+*domos'  acc. pl. 16, 86; ‘Cust’ domorum'  64, 82 (costs of buildings  in each); etc.). Treated
+throughout  as fem. (MSS.: *Noue domus gen. s. 71 (for. exp.); ‘in domo sua’ 88; etc.).
+‘ad domos  . . . emendendos'  occurs  on 16, ‘domos  suos' on 86.
+dongcart,  see dungcart.
+drag-:  dredge,  mixed  corn of bar
+*Dragett''  nom.  64, 65 (dredge  in eac
+‘Dragetum’  nom. 35, 68 (dredge  in each);
+132.
+drasc-,  etc.: draff, malt dregs.  drafc"  gen. 83 (petty  exp.).
+never extended  on the MSS. except  that hand xxi writes
+each).
+draye  nom. s.: cart body  (?: OED  dray sb!), 48.
+dristingatur,  see distr-.ley and oats. For hand xvii extended  to dragettum  (MSS.:
+h); etc.). For other hands extended  to dragetum  (MSS. :
+‘drageto’  abl. 41; etc.). ‘dragium’  nom. occurs  on
+Extended  throughout  to drascum;
+‘drachii’  gen. 67, 68 (petty  exp. in
+
+784 CUXHAM  MANORIAL  RECORDS
+duccup  or ductup  acc. s.: dung-cart,  sled (?: OED coup sb?; MFG dongecoupe;  cf. cupe
+above),  60 (costs  of carts).
+duco:  to lead. ducit versus  pres. indic.:  to go to (of a road),  28.
+dungcart  acc.(?),  dongcart  nom.(?):  dung-cart  (OED  dung-cart),  37.
+duodecim:  twelve.  duodecem  63 (oats).
+ecclesia:  church.  Its significance  is obscure  in the reference  to the Warden's  men driving
+cows  ‘ad Ecclesiam  suam’,  66 (for. exp.);  the intention  may be humorous.
+Edwardus:  man’s  name.  Extended  from  ‘E’ only in the case of the king’s  name.
+ego:  I. See  mihi.
+emend-:  amends  or repair.  In sense  of ‘amends’  extended  to emende,  in pl. (MS.:  'emendas'
+acc. 90). In sense  of ‘repair’  extended  to emendacio  (MSS.:  ‘Emendacio  domorum’  nom.
+72-74  (repair  of buildings  in each);  etc.).
+emendo,  /st conj.:  to repair.  Hand  xxiii  consistently  treats  as 2nd or 3rd conj.  (MSS.:
+emendend'  ger. 69 (petty  exp.,  costs  of mill);  etc.).  emendendos  ger. also  occurs  on 16.
+emp-  noun  or past  part.:  purchase  or bought.  In paragraph  headings  extended  to empcio
+with  gen. (emptio  for hand  xvii)  if it is thus  the first noun  in the heading,  otherwise  to
+emptus,  -a, -um  (MSS.:  ‘Empt’  bladi’  65; ‘Empcio  blad’’  71; 'bladum  empt’’  68; etc.).
+ennis  abi.:  part  of plough,  probably  of plough-share  (no related  word  traced),  78 (costs  of
+ploughs).
+entys  abl.,  abl.  pl.:  saplings  (MLWL  enta),  58, 63 (petty  exp.).
+Epiphania:  Epiphany.  Epl ia on hands  xii, xxiii,  extended  to Ephania  (MS.:  ephanie  gen.  63
+(visitors'  exp.)).
+equ-:  equal.  Extended  throughout  as ‘eque’  where  it occurs  as the balance  of an item  in corn
+or stock  account  (MSS.:  'eque'  35 (barley),  75 (vetch),  80 (butter),  etc.).
+equin':  of a horse.  See  ferrum.
+equus:  horse.  equor’  nom.  pl.(?)  60 (cart  horses)
+esperverius:  sparrow-hawk.  Never  extended  on the MSS.  (MSS.:  ‘esperuer’’  gen.  78 (cocks
+and  hens);  etc.).
+essonia:  essoin.  On the court  rolls  extended  to pl., essonie,  in the margins;  never  extended  in
+the margins  on the MSS.
+estimatio  and  oblique  cases:  estimate  of amount  (of corn),  passim  on the MSS.  written  in
+hands  iv, xvii,  xxi,  xxiii,  Xxx.
+estimatur,  estimantur  pres.  indic.,  est’,  estim’,  estimat’  past  part.,  estimar  inf.:  to estimate
+(corn,  damages,  lands),  25, 38, 60 (oats),  83 (berevechicorn  with  oats),  85 (oats),  90, 115.
+etas:  age.  etate  gen.,  twice,  67 (piglets).
+excessu  abl.:  surplus  (GMIL  excessus  1), 57 (before  cash  liveries).
+exennium:  gift.  ixen'  abi. 62 (sale  of works).  Extended  to sing.  throughout,  and  followed  by
+gen.  for the donor,  dat.  for the recipient  and gen.  for the thing  given  (MSS.:  'de exennio
+panis'  64 (sale  of works);  ‘de exenn'  eiusdem’  60 (reeve's  allowances);  ‘ad exenn'  episcopo
+lincoll’’  60 (gifts);  etc.).  ‘pro  suis  exenn’’  occurs  on 61 (sale  of works).
+exigo:  to demand.  exigerit  perf.  subj.(?)  100.
+expens-:  expenses.  Extended  to sing.,  expensa,  in grand  totals  of cash  on accounts  earlier
+than  1300,  otherwise  to pl., expense  (MSS.:  'Summa  tocius  expense'  64 (cash  discharge
+total);  *Expens'  neccessarie’  64, 69 (petty  exp.  in each);  ‘Summa  omnium  expensarum’,
+68, 84 (cash  discharge  total  in each);  etc.).  ‘in expensis!  followed  by gen.,  the normal
+usage  of the MSS.,  but dat.  occurs  in ‘Magistro’  65 (hens),  ‘petro’  67 (hens).
+extracte:  estreats.  Never  extended  beyond  'extract''  on the MSS.
+fabe:  beans.  Extended  throughout  to pl.
+faber:  smith.  Extended  throughout  to sing.  on the assumption  that only  one smith  was at
+work  at Cuxham  at any time  (MSS.:  ‘In stipend’  fabri’  30 (costs  of ploughs,  carts);  'per
+tall’ contra  fabrum’  64 (costs  of ploughs)).
+facio:  to do, make.  facere  legem  inf.:  to make  good  a claim  at law,  89.
+fagus:  beech-tree.  ‘dictarum  fag’’, treating  it (correctly)  as fem., occurs  on 71 (for. exp.).
+falc-:  mowing.  faltur’  ab/. 30 (hoeing  and mowing).  For hand  xxiii extended  to falcacio
+(MS.:  ‘opus  falcacionis’  117).
+
+ambiguously di :
+chicks, offal) and possibly  70
+felies acc. pl., abl.(?):  felloe of wheel (OED felloe) i
+ferr-: ironwork.  ferramento,  ferram’t’,  ferr" abl. s.: pair
+64, 72 (costs  of carts  in each),  48. ferr"  caruc’  extended  to
+hand xvii, otherwise  to sing.,  ferramentum  carucarum  (MSS.:  ‘Ferram’t’  car
+of ploughs);  ‘pro dictis ferr" repand"  64 (costs of ploughs);  ‘ferram’  caruc"' 82-85 (costs
+of ploughs  in each);  ete.). idi
+ferrum:  iron. ferr de Spaynia  gen.: Spanish  iron, 67 (costs of ploughs).  ferr’ equin’ ab/., abl.
+pl: horse-shoes,  80 (costs  of carts),  81 (shoeing  horses),  82, 84 (costs  of carts  in each),  85
+(costs  of ploughs).
+fetose fem. nom. pl.: pregnant,  79 (calves).  On 81 (calves)  the same clerk (hand xxiii) writes
+fetosa  fem. nom.  s. to mean  ‘barren’,  perhaps  a slip for ‘infetosa’  (itself  an unrecorded
+word).
+fides lesa:  breach  of faith.  fidelesione  ab/. 85 (for. exp.).
+fimifure’  nom.  s., gen. s.: muck-fork,  83 (petty  exp.),  85 (equipment).
+fimus:  dung,  manure.  Extended  throughout  to pl., fimi (MSS.  : ‘fimorum’  gen. 71 (petty  exp.);
+*fimis'  abl. 78 (petty  exp.);  etc.). Hand  xii writes  ‘fimum’  acc. 61 (petty  exp.),  63 (costs  of
+carts).  Hand  xviii  writes  ‘fimum’  acc. 95, 99, but *fimos'  acc. 97.
+firma: rent. Extended  to sing. in documents  before  1320, otherwise  to pl. (MSS.:  ‘Firma’
+nom. 63 (rent of mill),  66 (rents),  68 (rent of mill);  "Firme  nom. 71 (rents);  ‘firmis’  abl. 81
+(rents);  etc.).
+fisill’,  see fusill-.
+le flodgate  acc., del flodgate  gen., del flodyat  gen., flodyate  acc., del fludgate  gen. : sluice-gate
+(KMED  flod-yate),  70, 77-79  (costs  of mill in each),  105.
+focale:  fhiel. Never  extended  beyond  ‘focal’  on the MSS.
+fodio:  to dig. Hand  xvi writes  fodiavit  perf. indic. (struck  out) 89, fodiit perf. indic. 89, 91,
+fodiauit  perf.  indic.  92.
+fogett"  nom. s.: small pruning  knife or small mattock  (MLWL  voga),  48.
+folmerde  ab/., hulm’dum  acc.: polecat  (OED  foumart),  61 (hens),  67 (ducks).
+forag-:  fodder  or straw.  forag’  extended  throughout  to foragium  (MS.: ‘foragii’  gen. 68 (costs
+of buildings)).  ‘foragio’  abl. with a line above occurs  on 68 (petty exp.). Hand xxiii writes
+‘forag’is’  gen. 70, 71 (petty  exp. in each).
+forewynschouele  fem. noun, nom. s. : furrowing  shovel  (OED shovel  sb, furrow  sb, v), 48.
+forins-,  etc.: forinsec,  external.  Extended  throughout  to forms in -ecus, -eca, -ecum,  for
+hand  xxiii with  preceding  c, otherwise  s.
+forpices  pl. noun: shears  or scissors.  forpic’  nom. s. 85 (equipment),  gen. s. 66 (petty exp.).
+forrur',  forr’, forur’ nom. s.: furlong  in open field, 28. Extended  to forms in -ura.
+forum:  market.  dies for’ extended  throughout  to dies fori; never extended  on the MSS.
+foss-: ditch or dyke. ‘fossat’’  extended  throughout  to fossata  (MS.: ‘fossatam’  acc. 127),
+‘foss’’ to fossa (MSS.:  ‘fosse’  gen. s. 61, 64 (issues  of manor  in each);  ‘fossa’  abl. s. 103).
+franchia  petra,  see petra.
+fraxinus:  ash-tree.  frere acc. 63 (petty  exp.). Hand  xxiii writes  ‘paruam  fraxinum'  acc.,
+treating  it (correctly)  as fem., on 123 and similarly  *quedam'  on 130. Hand x writes  both
+'vnam  fraxinem’  and ‘idem  fraxin’’  nom. s. on 106.
+fretta: band round hub of wheel.  fret ab/. s 63 (costs of carts).  Never extended  on the
+MSS.
+fructus:  fruit. Extended  throughout  to sing. (MSS.  'de toto fruct’’  65 (issues  of manor);
+‘fructu’  abl. 66 (issues of manor)).  ‘fructus’  acc. pl. occurs on 3, but with metaphorical
+meaning.
+
+fu er.: to supply.  67 (wheat.  Rn  gas
+" d ; etc.). ‘In panefurn’’j. fe in -io (MS.: ‘Furniatum  67 (wheat);  ky ) ki Lis pu |
+throughout  to Ist conj.  m  ener  ie  teak  ón ‘
+tended  throughout  to pas! ue  4
+"i ‘furnito’ 41, 80 (wheat), ‘furnit’’ 82 (wheat). “da o! NOR eénded  throngheur
+Pili  : mill-spindle.  fisill? gen. s. 78 (costs of mill); fi
+ill-,  etc.  : :
+to forms in -illum;  never extended  on the NS. s
+puc boi die  NM  goad sb; KMED gadde), 59 (petty
+i d or stake  B ;gad abl. s., gadys  abl. pl.: goa
+ts of ploughs).  eERA ici posse throughout  to gallina unless context makes it likely that gallus
+gall-:  4
+s in 4 ake 5ani > ;Wis  boy, servant. Extended  throughout  to forms in -io (MSS.: ‘garc’onibus’  64 (for.
+exp.);  etc.).  ;
+id  latrine. Extended  throughout  to forms in -a; never extended  on the MSS.
+gardin-:  garden.  Extended  throughout  to sing.,  gardinum  (MS. : ‘Gardino’  abl. 78 (issues  of
+manor,  petty  exp.)).
+gariofilum:  clove.  gariophili  gen.  17. ;
+gore  abl.  s.: triangular  piece  of land  (OED  gore  sb),  68 (harvest  exp.).
+granar-:  granary.  Extended  throughout  to sing.,  granarium.
+granat'  past  part.:  to reckon  for  yield,  85 (vetch  with  berevechicorn).  ; :
+grangia:  barn.  There  were  two  barns  on the  manor,  but  when  the  word  is used  without
+specific  reference  to the buildings,  as in exitus  grang’,  it is extended  throughout  to sing.
+(MSS.:  "Exitus  grangie’  63  (top  of  dorse);  ‘de  toto  exit’  grangie'  64  (barley,  peas);  etc.).gray  masc.  acc.  s.: grey  (of a horse)  (OED  grey),  145.
+gropa:  iron  clamp,  especially  for  mending  cart-wheels.  crop’  abl.,  cropis  abl.,  grope  abl.(?)  s.,gropes  ab/.  pl.,  gropiis  ab/.,  gropys  abl.  57-59,  61,  63,  66,  70 (costs  of carts  in each).le haceh’  acc. : half-door  (OED  hatch  sb),  82 (costs  of buildings,  wheat).
+hachet  nom.  s.: hatchet  (OED  hatchet),  48.
+haia:  hedge.  Hand  x writes  ‘quendam  hayam’  94, 100,  but  also  ‘dicta  haya’  100.haras  gen.:  peas  and  vetch  mixed  (MLWL  haracium  2), 84 (peas  with  vetch,  oats). harn-  harness.  harnec’  abl. 59 (equipment);  hernisi  gen.  78 (hides).  Extended  throughout  to sing.  forms  in -ium,  with  er and  s (MSS.:  *hernesium'  acc.  68 (costs  of carts);  *hernesio abl.  67 (costs  of carts)).  *"herenes''  gen.  occurs  on 78 (hides).haysciam,  see hesa.
+hechel’  nom.  s.: an implement  for combing  flax  or hemp  (OED  hatchel),  48. eue  inde  gen.  s Vica  herdsman  (?: KMED  heme),  67 (mixed  corn) nricus:  man’s  name,  Extended from  ‘H’  only  int  ing’uice
+ ibis
+ 
+y in
+ the
+ case
+ of
+ the
+ king's
+ name.
+herbag-:  hay  or Tight  of pasturage  or paherbagium  (MS.:  ‘herbagii’  gen.  27).herc-:  harrow,  Extended  throughout to hercia.herde,  see heme  herde.
+heriet,  etc.:  heriot.  Extended  throuheriettum’ nom,  5. 112;  etc.),
+hernisi,  see harn-,
+hesa:  hedge.  haysciam  acc. s. 1le heyhous  acc.: hay-house  (0ghout  to forms  in er, -um  (MSS.:  ‘herietto’ ab].  s. 94;
+03 (where  it is used  as the i Squivalent of ‘sepem’ in 105ED  hay-house), 78 (repair of buildings). i  dcs
+
+ho t
+exp» fodder-corn),sale of stock, cows), , dr
+hog-: pig in its second  year. Extended  thr [
+possibly ‘hoggetti’,  nom. pl. 79 (young pigs); “hogett’’
+abl. pl. 78 (piglets).  :
+hogaster:  sheep in its second  year. hogastr’  nom. s. 85 (wethers);  hokastris  abl. pi
+stock). Extended  throughout  as 2nd decl. (MS.: “hogastro’  abl. s. 67 (young sheep’
+poked’, hokeday,  hokedey,  see hockeday.  MEL
+horscamb’  abl. pl.: horse-combs  (OED  horse-comb),  83 (costs  of carts).
+hostiliamenta,  see ustilmenta.
+houces  abl.: saddle-cloths  (OED  house  sb”), 69 (costs  of carts).
+hulm’dum,  see folmerde.
+hupetywel,  huptihil,  see hypetyl.
+hurt-: ram. Extended  throughout  to hurtardus  (MS.: ‘hurtard’’  nom. s., abl. s. 70 (rams)).
+hurteles  ab/. p/., hurtels  ab/. pl.: iron plates to protect  axle 67 (for. exp.), 85 (costs of carts);
+‘hurcell’’  gen. pl. occurs  on 73 (costs of carts). All the forms of the word given by OED (sub
+hurter sb?), KMED  (sub hurtour)  and Drew, Notes, have r, not /, in the second syllable,
+but those given by MLWL  (sub hurtardus)  include  Aurtellum,  and there is little doubt that
+the word is correctly  identified:  each of the Cuxham  references  is to the acquisition  of two,
+and on 73 they are specifically  made  of iron.
+hypetyl ab/., hepetiel  ab/. pl., hupetywel  ab/. pl., huptihil  abl. pl.: hip-tiles,  tiles shaped to
+cover the ridge or edges of a roof (Salzman,  Build. in Eng., p. 231), 62 (costs of hall), 66
+(petty exp.), 68 (costs of new granary),  84 (costs of buildings).
+idem, eadem, idem: the same. In masc., fem. acc. sing. and in gen. pl. extended  throughout
+with n, not m. The MSS. are inconsistent:  'eorundem'  and ‘eamdem’  both occur on 17,
+*eundem'  and ‘eumdem’  on 65 (wheat).
+in prep. with acc. or abl.: in or into, etc. Where animals go (ire, currere) into pasture, stubble,
+etc., the following  noun is-extended  to abl. (MSS. : ‘euntibus  in stipula"  64 (issues of manor);
+etc.). In the phrase ‘in man’ domini"  man’ is extended  only in italics (see manus).  With these
+exceptions  the noun following  in is extended  to acc. or abl. according  to the usage of
+Classical  Latin. The usage of the MSS. is not consistent  with this, however;  thus hand
+xxiii writes ‘solut’ in partem  solucionis’  79 (for. exp.), ‘venit in Curia’ 120, ‘pro ingressu
+habend’ in dicto Mesuagio’  121, while hand xviii writes ‘tenuit bidentes in prato domini’
+and ‘tenuit boues in prata domini’  in successive  sentences  on 99. The clerk has made an
+alteration  to change the case of a noun following  in on 64 (oats) and, probably,  69 (note
+after  cash  balance).
+incerend’,  see insero.incrementum  and oblique  cases: (1) addition  to the amount  of corn accounted  for to allow for
+heaping  of measures  etc. (Harvey,  Med. Oxf. vil., pp. 53-6), 65, 78, 82-85 passim in
+corn account  in each. (2) increase  in bulk of corn on malting  (Harvey,  Med. Oxf. vil., pp.
+70-1),  67-73,  75, 79, 81 (malt  in each).
+indentura:  indenture.  Extended  throughout  to sing. unless context  unambiguously  demands
+pl. form (MS.:  ‘per indenturam’  69 (doves));  cf. tallia.
+indules  ab/.: part of cart-wheel,  probably  felloes  (KMED  doule),  68 (costs of carts).
+infetosa,  see fetosa.inquisitio:  judicial inquiry. inquisicicionem  acc. occurs three times on 93, but also ‘inquisicio’
+nom.  s.
+insero:  to plant or to graft.  incerend"  ger. 58 (petty  exp.).
+instaur-:  stock  (of manor).  Extended  throughout  to instaurum.
+intinctum  past part.,  intincta  past part.:  to declare,  90.
+
+- al accounts for entire estate (cf. p. 30), 40.
+.: sum norial accounts  48.hag trough (0 eading-trough,  trough),  :Bc Aa dqdep  sb?, EDD lade sb!) or, possibly,nom.
+lad acc. s.: projecting  board or side-piece
+thong (OED lad sb?), 48.ladel gl Ihadel abl. s.: ladle (OED ladle), 78, 85
+ladeles abi.: boards of a water-wheel  (OED ladle), 79 (costs i
+lana: wool. Extended  throughout  to sing. ‘emptor lanarum
+but also ‘pro lana vendenda’  (oats). :
+ee! pui  or preserved meat. Extended throughout  to lardarium.  Never extended
+beyond  ‘lardar’’  on the MSS.  : à
+lat-, Som lath. lattys ab/. 60 (repair of buildings).  Extended throughout  to forms in -a, with
+single unless rt on MS. (MS. 'dictas bord’ et Lath" 71 (for. exp.) implies a fem. form).
+lateneyl gen.(?) pl., latheneil abl. pl., latthenayl  ab/., latthenayl’  ab/. pl.: lath-nails  (Salzman,
+Build. in Eng., p. 310), 65 (costs of buildings),  68 (costs of granary),  83, 84 (costs of buildings
+in each),  85 (costs  of mill).
+lavatorium:  ewer.  lauator  nom.  s. 37.
+legges acc.: transverse  strips fixed on a door (OED ledge),  65 (costs of buildings).
+legumin’  ab/.: pease pottage,  a preparation  of peas as food, 59 (peas);  on the other  accounts
+in hand  xii potagium  is used as an equivalent  (58, 60-63  (peas  in each)).
+lev-, etc.: making  (of hay). Extended  throughout to forms  in -acio (MS.:  ‘post  leuacionem"
+116).
+lex:  law.  See facio.
+Ihadel,  see ladel.
+lib- noun  or past  part:  payment  or delivery;  delivered.  In general  extended  to /iberacio  after
+‘in’ and  whenever  it means  payment  (in cash  or kind)  for work  or services,  and  to liberatum
+for other  deliveries.  In the paragraph  headings  and in grand  totals  of cash discharge
+extended  to liberata  (neut.  pl.)  for hand  xxi and,  in paragraph  headings  only,  for  hand  xvii
+also,  but  for other  hands  extended  to /iberacio  (MSS.:  ‘Summa  omnium  expensarum  etliberatorum’  68 (cash discharge  total);  ‘Liber’  Regi et Forinceca’  64 (for. eo SE
+liberacionis’  62 (cash discharge  total);  etc.). For hand xxx /iberacio  is tended  th the pliec  with  reference  toa series  of payments,  but otherwise  to the sing.  throuehicot
+-: "liberacione  abl.  58 (peas);  ‘In liberacione  ij fugatorum’  82 (mixed  corn);  ‘adliberaciones  fam’’  84 (wheat);  etc.).  Th ipient ii  
+z  
+;  
+etc.). The
+recipient
+ is ex
+ 
+i liberacio  facta and in consecutive  entries  SEN  Se  RENT  Oe  ks repeated,  but otherwise  the recipient  is extended  M iiid  is understood  instead  of being
+d (wheat); "In lib’ facta vni garcioni’ 71 (for ge sS i gpesi ail In lib canum"  72 (mixed  corn);  etc.)  uaa  e  n liber  Famulorum’  57 (wheat);
+(mixed corn) but also ‘In liberac’ predi fhe cane In liber alteri bercar'"  on 58
+Mid  as gen. sing. ‘ame paragraph,  and ‘alteri’ may be
+18-:  ixing  tyres  to wheels.  Whin T (costs of ane  by gen., extended to ligatura (MS. :
+RM  E Ia Min  igneis  abl. pl. 71 (petty  exp.)
+linguts  abi:  metal  bine  ok  (no related  word  traced),  66 (petty  exp.) (costs  of carts  in each)  nes  i  n (petty  exp.).  The  word  probably  d  75cases it may possibly  mean lee TM (pieces  of wood)  or lingw are bought  f. icit 9821,  i ose  NTT  te  pin  (cf. OED  linch  sb!,  Ar.  LA  £ht for axles  (in these
+(petty exp.)  ) where  they are bought  for AR  eM Pestis  ie cf. ‘lingno’  on(petty  exp. in each).
+of mill).
+occurs  on 84 (Warden’s  exp.),
+‘In ligatur’.  . .
+
+yard abl.: horse spotted  wi white.
+lyird  nom.  s.: particular  tool  or implement (?: no
+manger  acc. s.: manger  (OED  manger), 69 (petty  exp.
+manualis:  by hand.  See opus.  rs : à
+manus:  hand. In the phrase  ‘in man’ domini",  etc., extended  only in i the MSS.
+this context  it is never written  in abl. pl. and only twice in acc. sing. (capiatur  in Manum
+domini"  91; ‘capit  in Manum  suam'  103). No consistent  usage  emerges  in any clerk's
+choice  between  abl. sing.  and acc. pl. in the many  instances  where  it is written  thus in full
+on the MSS.
+mareol’,  see mariol’.
+marescalcia:  farriery,  treatment  of horses.  marchausia  ab/. 70 (petty  exp.).
+Marger-,  etc.: woman's  name.  Extended  to forms  in -ia (MS.: 'Margeria'  nom. s. 111).
+mariol’,  mareol  varying  cases:  (1) breeding  female  of sheep,  58 (purchase  of sheep),  60 (sheep),
+63 (sheep),  where  it is the equivalent  of matrix,  the word used on the other  accounts  in
+hand xii; (2) breeding  female  of geese,  passim  (the definition  in MLWL,  ‘unmated  goose’,
+is inapplicable  here; see, for example,  71 (geese)).  Extended  to forms  in -iola, except  for
+hand xii where  extended  only in italics;  never  fully extended  on the MSS.
+mart-:  martyr.  Extended  to martir  (MSS.:  ‘Martir’’  gen. 116; ete).
+materas  abl. s.: mattress  (OED  mattress),  68 (for. exp.).
+Matil-:  woman's  name. Extended  throughout  to forms in -da with single / unless // on the
+MS.  ‘Matildi’  dat. occurs  on 7.
+maythen  ab/., maythes  acc., mertheij  acc. : mayweed  (OED maythe,  maythen),  30 (weeding),
+66 (mowing  and hoeing),  69 (hoeing  and mowing).
+medietas  noun: half. medias  nom. s. 68 (bacon).  Occurs  followed  by nom. instead  of gen.,
+*que bunda  Medietas  pertinet  domino',  100.
+medsipe  ab/., medeschip  ab/. : reward  for mowing  (SMED  schipe),  67, 68 (hoeing  and mowing
+in each), 69 (wheat),  70 (hoeing  and mowing,  wheat),  71 (wheat).
+mensura:  measure.  ultra mensuram:  beyond  measure,  unreasonably,  89.
+meremium:  timber.  mremium  acc. 88.
+mertheij,  see maythen.mesuag-,  etc.: messuage,  dwelling.  Extended  throughout  to forms in -ium (MSS. ‘Mesuagium’
+acc.  125;  etc.).meto 3rd conj: to reap. metabit fur. indic., metebit fut. indic. 27 (where *metet fut.
+indic. also occurs);  metient'  pres. part. 91; metit past part. 69—71 (harvest  exp. in
+each),  41.Michael’:  Michaelmas,  83 (mowing  and hoeing, wheat), 84 (rents, sale of wool, costs of fold,
+purchase  of corn, mixed corn), 85 (rents, peas).
+mihi, etc.: to me. Extended  throughout  to ‘mihi’. ‘michi’ occurs on 6.
+minor, minus: smaller, lesser. diminori for ‘de minore’ 65 (cheese). minus C acc: short
+hundred (i.e. 100 not 120), 71, 72, 78, 79 (eggs in each), 81 (issues of manor, eggs).
+minus adv.: (1) Used as prep.: minus, with the deduction  of, 72 (oats), where it is followed by
+nom. (‘minus . . . iiij^ pars pec’), 84 (wheat). (2) Used as conj.: less than, 85 (peas, vetch
+with  berevechicorn).  ; :
+le misti ab/.: middle part of barn (OED mid a, sty sb?; EDD midstay, sub mid; cf. Stratton
+accts,  p. 236),  29.mixtura:  mixed corn. mitura ab/., mitur’ ab/., 59 (wheat, barley, dredge).
+modius:  hub of wheel. modis abl. pl. 68 (costs of carts). l
+molend’ ger., moland' ger.: to press (apples in a cider-press),  51, 85 (equipment).
+
+.. faciendo'  occurs  on 64 (petty
+. “pro  mullion'  .
+: mutilinis  ab/. pl. 51.
+. mu 
+. 65  (capons).mundi nom. pl.: clean, properly  castrated  (of capons).  65 (cap natale,  hence festum  natalis-: birthday  or Christmas.  Extended  throughout  as a noun,  fest
+pi  b (MSS.: ‘ante Natale” 68 (sale of stock); ‘ante Natale domini’ 69 (eggs);
+‘ante festum Natalis’ 69 (rents of mills); etc.). ‘a festo Natiuitat  domini’ occurs on |
+(oats).
+nativ-,  etc., noun or adj.: villein.  Exten
+Manus  domini'  77 (oats)).  . à T
+necessarius,  -a, -um: necessary.  Extended  throughout  with ss (MSS.:  "necessar  nom. dii
+(petty  exp.);  etc.).
+necesse:  need.  Extended  throughout  with ss.
+neco:  to kill. negeand’  ger. 63 (peas).  t
+negotium,  etc.: business.  Extended  throughout  to pl., negotia  (MSS.:  "negociis  abl. 69
+(visitors!  exp.);  etc.).
+nellet,  see nolo.
+Nichol-,  etc.:  man's  name.  Extended  throughout  to forms  in -/us,  though  never  unam-
+bigously  extended  thus  on the MSS.  ‘Nicolaus’  nom.  occurs  on 86, ‘Nicholai’  gen.  on 5,
+62 (visitors’  exp.).
+nihil,  etc.:  nothing.  Extended  throughout  to nichil,  specifically  used  by hands  xvi,  xvii,
+xxiii,  xxv,  xxix  (89,  65 ( vetch),  77 (vetch),  78 (peas  with  vetch),  134,  etc.) ; nihil  never  occurs
+on the MSS.
+nihilominus,  etc.:  nevertheless.  Extended  throughout  to nichilominus,  specifically  used  by
+hands  xxii,  xxiii,  xxix  (110,  126,  142,  etc.)  and  on 111.
+nolo:  to be unwilling.  nellet  pres.  indic.(?),  88.
+notebem  abi.:  nut-tree  (OED  nut,  beam  sb!),  67 (petty  exp.).
+nundine, fem.  pl.:  fair.  Extended  throughout  to pl. (MS.  ‘Nundinis’  abl.  71 (chicks)).
+oct-:  octave,  seventh  day  after  a feast.  Extended  throu:
+extended  on the MSS.
+ol-:  vegetable.  Extended  throughout  to neut.
+oneragio  abl.  : carrying-service,  27.
+pee  ‘to  [ous  onerare  cum:  to load  (a cart)  with,  71 (for.  exp.).
+perarius:  worker.  operiarium  acc.  99,
+opus:  work.  operis  abi.  pl. 27;  o
+week-work,  43.
+ord-:  barley.  For  hands  xvii,  xxiii,  extended  to ordium,  for  all other  hands  to ordeum  (MSS.: rdium'  nom.  65, 74 (barley  in each);  *ordeo*  abl.  41;  ‘Ordeum’  nom.  82 (barley);  etc.)ortes  abl.(?):  scraps  of fodder  (OED  ort: ihie
+ iiri
+ ( ort; EDD ort), 85  (issues of  the manor).
+ovil-,  etc. : sheepfold.  ouili  abl.  79
+(MSS.:  ‘ouile’  acc.  59, 70 (petty
+Ovis,  etc.:  Sheep.  ouin'  nom.  pl. 58
+to "ovium", ovis  ided throughout  as a noun (MS.:  ‘ten’ Natiuorum  in
+ghout  to fem.  pl, octave;  never
+pl., olera  (MS.  *olerum'  gen.  65 (petty  exp.)).
+pera  abl.  pl. 63 (sale  of Works).  opera  manual"  nom.  pi:
+(costs  of fold),  107. Extended  throughout  to forms  in -ile
+
+‘in pane  furn’’  64 (wheat,  barley)).
+par noun,  3rd decl.:  pair.  paris  abl. pl. 58 (costs  of carts),
+abl. pl. 35 (costs  of carts);  parium  gen. p/. 71 (costs  of carts  :
+out to ‘pari’,  specifically  used  by hands  xii, xvii,  xxiii  (61 (costs
+of carts  in each),  etc.).  : ? i
+paries:  wall,  partition.  Hand  xxiii  writes  parites nom.  pl. ea Im euch128, but e ace  acc. pl. 71 (eae em pl., acc. pl., 70,71 (petty exp.in each),
+parops-,  etc.:  ish, platter.  parapsede  abi. s. 78 (petty  exp.).  Extended  throu;  s
+e and -is (MSS.:  *paraps''  abl. pl. 84 (petty exp.); ‘p’apsid’’  nom. pl. ona
+Pascha,  etc.: Easter.  For hands  v, xxx, treated  as neut.  (gen. s. ‘Paschatis’),  for hand  xii
+treated  as neut.  in acc.  sing.  ("Pascha")  only,  and  for all other  hands  treated  as fem.  (gen.  s.
+‘Pasche’)  (MSS.:  ‘pascha’  acc.  30 (oats),  59 (issues  of manor),  abi.  59 (sale  of beans);
+*paschat'  abl.  85 (Warden's  exp.);  ‘pasche’  gen.  101; etc.).
+pasco  3rd conj.:  to feed,  graze.  Hands  vi, x, occasionally  use forms  in ss: passit  pres.  indic.
+100,  passebat  imperf.  indic.  106,  passend'  ger.  31 (dredge,  beans),  57 (petty  exp.,  beans).
+passag-:  ferry  or ferry-toll.  Extended  throughout  to passagium;  never  extended  on the MSS.
+pastous  gen.  s.: shepherd  (OED  pastor),  18.
+pastura:  pasture.  Extended  throughout  to sing.,  pastura,  followed  by gen.  for the animals
+put there  (MSS.:  *pasturam'  acc.  107;  ‘pastur’  vnius  bou’’  63 (petty  exp.);  'pastur'  duorum
+boum'  66 (petty  exp.);  etc.).
+patella:  pail.  pela  ab/. s. 59 (petty  exp.);  note  the implied  contrast  with  patella  (meaning
+bowl,  pan)  in the previous  sentence.
+pec, pecke,  pek varying  cases:  peck,  fourth  of a bushel,  passim.  In amounts  of corn,  etc.,
+standardized  as 'p.' (see  p. xvii).
+pec acc. s.: peck  measure  (OED  peck  sb’),  48.
+pela,  see patella.
+pell-:  skin,  hide,  etc. Extended  throughout  to pellis.
+pellet-:  shorn  sheep-skin.  Extended  throughout  to pelletta  with tt (MS. ‘pellett’’  abi. pl. 70
+(issues  of manor)).
+pellicula : small  skin. pelliculus  nom. 5. 64, 65 (lambs  in each).
+pelvis:  basin.  peluim  nom.(?)  s. 37. ‘pelui’  abl. s. occurs  (correctly)  on 53.
+Pentecoste,  etc.: Whitsun.  pentecostis  gen. 31 (heading).  Otherwise  the word occurs  fully
+extended  on the MSS. only in hand xxiii (‘Pentecosten’  acc. 71 (visitors  exp., oats),
+‘pentecostes’  gen. 69 (oats),  117).
+per prep. with acc.: through.  ‘per vtraque  seysona’  occurs  on
+perey gen.: perry  (OED  perry’),  31 (attached  schedule  1).
+pergam-,  etc.: parchment.  Extended  to forms  in er a
+etty exp.)).  ‘pergamene’  abl. occurs  on 70 (petty  exp.).  dr
+hi ven es perl’ abl. pl. 30 (memoranda  of liveries); cf. the possible derivation  of
+‘pearl’ from perna (OED pearl sb!). perna baconis and oblique cases: haunch or side of
+preserved  pork, passim.  ‘Summa  perne’ occurs on 78 (haunches  of pork) implying  a
+collective  sing.  Aiea  oki
+perquis-:  profit of court. For hand xxiii ‘perquis’  cur" is extended  to perquisicio  curie, sing.,
+and for all other hands to perquisita  curie, neut. pl. (MSS.: 'perquisicion''  abl. 71 (profits
+of court);  ‘perquisicionis’  gen. 121; *perquisitis'  ab/. 63 (profits  of court);  etc.).81 (oats).  See also locus,  vicem.
+-enum  (MS.:  ‘percameno’  abl. 73
+
+: pitchers,  tossers, of corn-sheaves,  69 iii
+ge o phek, toss (corn-sheaves  on cart), 71 (harvest exp.).
+PE 
+en
+ 7  inguend’
+ ger. 57 (oats).
+ 
+Y
+niat RR  (of an injury or broken bone?), 62 (pee m f Caan
+inniand? ger.: to bind (an injury) or, possibly, set (a ae i pisse! abi. 31 (petty exp.), is etc. - fish Extended  throughout  to collective  sing. (MSS. : 'pipiscis,  etc.: fish.
+susie  : ‘Pise’, ‘pise’ nom. 64, 67 (peas in each), pise bibis on Extended  throughout  to pl. (MSS.: ‘Pise’, ‘pise’ nom. 6 (pe
+*Mixte'  81 (peas);  etc.).  :
+istilag’  a5/.:  baking,  71 (wheat).  ; M to reedm noun: pledge, surety or one who acts as pledge, goes pur Fm ud SS e ES sat e
+the MS.,  extended  to pleggius,  otherwise  to plegius,  sing.  i s T à S Se  ple  ace. pipii including  the homage as a who ee Pil.peint  cni mer a e. dd i ing S redictos pleg’’ 124; etc.). ‘perplegium 109;  ‘per  plegium  Alterius  vtriusque"  90; ‘per  p:
+in E i ? on 142. The names  of the persons  are Iohannis  laccheford'  et Iohannis  Calewe'  occurs  1 7...
+extended  to nom.  after  plegius,  to gen.  after  per  plegium  Ee  pl’ Ricardus  Es E
+‘per  pleg'  Willelmi  Walderugg''  115;  etc.).  ‘per  pleg’  Rob  atte  Bene  et Robertus  le
+holdeman’  occurs  on 88, but so also  do ‘per  pleg’..  . Gilebertum’  and  per  pleg’...
+Roberti’.
+pleg-  verb:  to pledge,  go bail  for.  Extended  throughout  to plegio,  Ist conj.;  never  extended  onthe MSS.
+plenus,  -a, -um:  full.  The  noun  following  occurs  on the MSS.  in both  gen.  and  abl.  (‘plenisfrumenti"  29; ‘plena  aceto"  85 (vinegar):  etc.). P g
+lumb'  nom.  pl.:  lead  vessels  (MFG  plumbum;  cf. Dom.  St Paul's,  P. Ixxxiii),  85 (equipment). n quip plus  adv.  used  as conj.:  more  than,  85 (wheat).
+pols,  see puls.
+gh. Extended  throughout  to the appropriate  part of pondero,  with  the weight  in acc.  (MSS. : ‘ponder’  vj petras’  68 (wool);  ‘ponderanc’’ 71(wool);  ‘ponderabant’ 72 (wool);  etc.).
+pono:  to place.  poni  pres.  Cperf.)  inf.  active  107.  posuit  for  *inposuit^101.  In the phrase  *po'  se in misericordia", etc.,  extend.MSS.  in hands  xvi,  xxiii,  xxiv  (90,  1 19, 131,  etc.);  ‘pos(as well  as *ponit")  107.
+popeler  acc.  s.: poplar  (OED  poplar),  145.porcello: to farrow.  ‘Purcelauit perf.  indic,  67 (dredge); the  Context  (‘In  suibus  sustinendquando purcelauit ) suggests an impersonal Construction, which  would  not  be inconsistentwith  In suibus  sustinend’ quando  porcellau’’, which  also  occurs  on 67porcus: pig.  porcii  nom,  Pl.  57  (pigs). 
+ipPosse:  to be able.
+posuit,  see  pono.
+potagium: pottage, Never extended be : yond  potag'' on thk t dd  5.: polecat  (OED  polecat), 72 (chicks) SMS€! pounfold gen.,  del  pounfould gen, : pipf,  1 
+iTS
+ Bid
+ m
+ 
+gi 
+Pinfold,
+ pound
+ for Stray
+ or distrained
+ anim; pratum: meadow, For: to impute,  charge  with,
+ed throughout to *ponit',  as on the
+uit’,  however,  Occurs  on 89,  106  and
+potuissit pluperf. subj.  (? context  Tequires pres.  indic.),  97
+als (OEDo
+
+i 1 MSS.: 'vltra  suam certam  prebend’’  72 (oats);  ‘in
+'equorum' 64 (oats),  69 (oats);  etc.). For hand xii the recipient  is extended  only in
+both gen. and dat. occur  on the MSS. (see 59 (oats),  etc.).
+boon-work.  For hand  x extended  to precarium,  neut.,  otherwise  to precaria,  fem.
+(MSS.:  ‘precaria’  acc. 27; ‘duas  precar''  42; etc.).
+precione  abi. : part of plough,  probably  of plough-share  (no related  word  traced),  78 (costs  of
+ploughs).
+precium:  price.  precibus  ab/. pl. 57 (sale  of corn).  Extended  to gen.  sing.  for valuations  in
+court  rolls  (MSS. : ‘precii’,  ‘precij’,  gen.,  89, 95, 97, 123).  Extended  to acc. sing.  for valua-
+tions  in accounts,  etc.;  in this context  it occurs  extended  on the MSS.  only  in hands  vi,
+xvii (MSS.:  ‘precium’  acc. 57 (sale  of corn,  harvest  exp.),  64 (sale  of dairy  produce),  65
+(sale  of stock,  sale  of dairy  produce,  sale of dredge,  petty  exp.)).
+pregnans:  pregnant.  prencnante  fem.  abi. s. 94.
+prehys,  see prayes.
+presantbred  ab/.,  presant  bred  ab/.,  presantbred’  ab/.,  presauntbred  ab/.,  presendbred  ab/.,
+presentbred  ab/. : customary  rent  of bread  (Harvey,  Med.  Oxf.  vil., pp. 119,  123),  35 (issues
+of manor),  45 (rents,  reeve's  allowances),  67, 68 (issues  of manor,  reeves'  allowances,  in
+each),  69, 70 (reeve's  allowances  in each),  71 (issues  of manor,  reeve's  allowances,  note
+after  cash  balance),  72-74  (rents,  allowances),  77 (rents),  117.
+pressur’,  presur’  ab/.:  rennet  (EDD  preaser;  cf. Stratton  accts,  p. 237),  35 (petty  exp.),  65
+(costs  of dairy).
+prestrur’,  see purprestura.
+prey,  preyes,  see  prayes.
+primus,  -a, -um:  first.  In the phrase  ‘Summa  cum  prim’’  extended  throughout  to fem.  abl.
+sing.  (MS.:  ‘prima’  69 (doves,  hides)).
+proba:  sample  (of grain).  probom’  acc.  59 (Walter’s  exp.).
+prob’o,  see prebenda.
+prosterno  3rd  conj.:  to fell.  prostrabit  fut.  indic.  27;  prosternauit  perf.  indic.  132.
+proxim-  adv.:  next.  Extended  throughout  to ‘proxime’  (MS.:  ‘proxime’  97).  ‘proximo’
+occurs  on 97,  117.
+puinguend'  see pinguo.
+pulcinus:  chick.  pulcine  nom.  pl. 41. Extended  throughout  to pulcinus  (MS.:  ‘pulcini’  nom.
+pl. 97).
+pull-:  chick  or foal.  pull’  columb’,  pull’  columbell  varying  cases:  squabs,  young  pigeons,
+passim.  For  all meanings  extended  throughout  to pullus  (MSS.:  ‘pullo  equino'  abi.  61
+puri  of stock);  ‘pulli’  nom.  pl. 61 (hens);  etc.);  for pigeons  never  extended  on the
+puls  nom.,  gen.,  abl.,  puls’  nom.,  gen.,  abl.,  pols  nom.,  gen.:  peas  and  beans  mixed  (EDD
+pulse  sb*;  Harvey,  Med.  Oxf.  vil.,  p. 49),  50, 53, 66 (vetch  with  puls,  mixed  corn),  67
+dde  of corn,  beans  with  puis),  79 (purchase  of corn),  147.  ‘alium  puls'  nom.  occurs
+on  50.
+purati  gen.  s.: cleaned  (of  seed),  48.
+purcelauit,  see  porcello.
+purprestura:  purpresture,  encroachment.  prestrur’  ab/. 96.
+putagium:  fornication.  puteriam  acc.  (GMIL  putagium),  88.
+le puttel  nom.:  hawk  or other  bird  of prey  (OED  pittel),  73 (hens,  chicks).
+Pykfork’  nom.:  pitchfork  (OED  pickfork),  48.
+Pykoise  nom.:  pickaxe  (OED  pickax),  85 (equipment).
+Pynnes  gen.  or abl.  pl.:  tile-pins  (OED  pin sb!  ; Sal:  Build.  ijeje  nn  p  ; Salzman,  Build.  in  Eng.,  pp.  234-5),  83  (costs
+
+uei  Extended  throughout  to
+avaro  n ‘wool)).  —  »). 48.
+quarteron’ al. pl., quartrona  abl. s.: measure  o wood,
+69, 70 (for. exp. in each),  84 (costs  of buildings).
+quarteronbord  abl: quarter-boards,  possibly  saw’
+(Salzman,  Build.  in Eng. p. 242), 71 (for. expJ.
+quartrona,  see quart-,  quarteron’.
+quartronum,  see quart-.
+quatrag’,  see quadrag’.  i
+Quatragesima,  see Quadragesima.
+ror,  see  conqueror.  : M , :que que, MR which, that. Extended  to 'que' in the phrase Sum Ru  ENS:  :
+‘que’ 84 (peas  with vetch),  85 eedem  oed  Hand  xxix tends  ‘
+i . sing.,  nom.  pl. (cf.  : , etc.). : s -bru d eL HER a CR Hand xx writes ‘quendam  seruientem  and quemdam
+Petram'  in the same  sentence,  108.
+quietum  clamo:  to quitclaim.  quietam  clamaui  6.
+quotienscumque:  however  often.  quosienscumque,  quossienscumque  27. ;
+Rad-:  man's  name.  Extended  throughout  to Radulfus  (MSS.:  *Radulfus'  nom.  7; 'Radulfo
+dat.  6, 8, 12).  s
+raftera:  rafter.  raftr'  abl.  pl. 70 (costs  of new  building);  reftrys  ab/.  63 (costs  of buildings).
+rakes  nom.  pl.: rakes  or, possibly,  racks  for hay,  etc. (OED  rake  sb!,  rack  sb?),  48. |
+ratorum,  see  rota.
+recep-:  receipts.  recepcionum  gen.  pl. 71 (total  cash  charge).  Extended  to sing.,  receptum,  in |
+grand  totals  of cash  both  for hand  xxx  and  for any  account  earlier  than  1320,  and  to pl.  |
+recepciones,  in grand  totals  of cash  in hand  xxiii;  otherwise  extended  to pl.,  recepta  (MSS.  :
+‘Summa  tocius  recept’’,  etc.,  39, 57, 64 (total  cash  charge  in each);  ‘Summa  summarum  |
+Tocius  Recept’’  82 (total  cash  charge);  ‘Recepcionum’  gen.  pl. 71 (total  cash  charge);  |
+"receptorum'  gen.  pl. 69, 81 (total  cash  charge  in each;  not  hand  xxiii);  etc.).
+le reek’  gen.:  rack  for cloth  (OED  rack  sb?),  69 (costs  of mills).
+recognitio:  acknowledgment  of lordship  or inquest  by jury.
+nisscionem  acc.  92.
+recooperio:  to re-roof.  recoperiend’  ger.  57 (petty  exp.).
+recordum:  record,  report.  See  voco.
+redditus:  rent.  Extended  throughout  as a collec
+(assessed  rents);  ‘de redditu  termini’  75
+127,  *redditibus'  abl.  27.
+refus’  ab/.:  refuse,  rubbish  (2: OED  refuse  sb?
+reg-:
+never  extended  on the MSS.  "T'S  extended  to ‘regis’;  in this contextrerecorde  ; J S Roe  T T  5., rerecord  abl.  5.. rer'corde  acc,  (? nom.)  s., reretorde  abl.  $.: ropes tified part of horse's  harness  (OED  rerecord ; D: (carts  in each),  48, + Drew,  Notes),  67, 68, 72, 75
+Tespecto Ist  conj.:  to look.  respecte imper.  44.SERRE. to answer. respund’ pres.  indic.  31 (rents).  The (t roughout as ‘responsurus’; never  extended on the  Mss ridell-,  etc.  : riddle,  sieve.  riddel  nom,  s. 48; ridiforms  in -us: never  extended  on the MSS.  Mah  (petty  exp.).  Extended  throughout  ton from trunks  quartered  lengthwise
+——Á v. fh
+recognisionem  acc.  111; recong-
+tive  sing.  (MSS.:  ‘de toto  redd  ass"  60
+(rents);  etc.).  Pl. forms  occur  in ‘redditus’  acc.
+). 85 (issues  of manor).
+auditors’  note  ‘r’’  extended
+
+C eed throughout  to. "d ie ‘rod’”’ on(67 ee  5)e 68 p ats) left
+unextended in view  of the English  forms  noted  above.
+rookhirde  gen. s.: person  to kill or drive  off rooks  (MFG rokherde),  83 (petty  exp.; cf. wheat).  i
+rota:  wheel.  ratorum  gen. pl. 58 (costs  of ploughs).  t
+runges  ab/., rounges  ab/.:  rungs  of a lantern-wheel  (OED  rung),  70, 77 (costs  of mill in each).
+rypgos,  see ripgos.
+rypieres  nom. pl., le rypieres  acc.: reapers  (OED  reaper;  cf. amercement  of {. . .] le Rypyer’,
+presumably  used  as surname,  on 126),  126, 127.
+sace-;  sack.  Extended  throughout  to saccus  (MSS.:  ‘saccos’  acc. pl. 61 (petty  exp.);  ‘eosdem’
+66 (petty  exp.);  ‘vterque’  85 (petty  exp.,  equipment).
+salsarium:  salt-cellar.  salar’  ab/. 63 (costs  of dairy).
+salsiamentum:  sauce,  condiment.  salciam’  acc. 60 (harvest  exp.).  |
+saltseluer,  salseluer,  saltesiluir,  saltesiluir",  saltsiluir,  salt'siluir,  saltsuluer,  salteliuir:  custom-
+ary rent,  probably  in lieu of carrying  salt or of payment  in salt (OED  salt),  45, 58, 60-74
+(rents,  reeve's  allowances,  in each),  77 (rents).
+salvo:  except.  Occurs  followed  by acc.,  136, and by acc. struck  out and replaced  with  abl.,  I]
+135. |
+saraxand’,  see serro.
+sarculatio,  etc.:  hoeing,  weeding.  cerculacio  nom.  s. 67, 68 (hoeing  and mowing);  cercula-
+cione  abl. 30 (costs  of hoeing);  circulac?  ab/. 62 (petty  exp.).  Extended  without  u unless
+written  or clearly  indicated  on the MS. 'serculatio',  ‘sarculatione’  both  occur  on 66
+(mowing  and  hoeing).
+satisfacere:  to give  satisfaction.  Occurs  followed  (correctly)  by dat. on 86, 87, 138.
+sawser  abl.:  salt-cellar  (OED  saucer),  62 (petty  exp.).
+say abl.: type of fine-textured  cloth  (OED  say sb!),  53.
+scaldyng!  nom.  pl.: type  of store-pig  (no related  word  traced,  though  cf. OED  scalding
+sb'),  85 (harvest  exp.,  pigs).  |
+scapula:  shoulder.  scrapul’  a5/. 63 (petty  exp.).  0:
+scecand’,  see seco.
+scecur’,  see securis.
+scenescall’,  see senescallus.
+scep’,  scepe,  see sebum.
+sceth’  nom.  pl.: bars  connecting  front  of sole  of plough  with  plough-beam  (?: OED  sheath  sb? ;
+EDD  sheath;  cf. Bishop  Hatfield's  survey,  ed. W. Greenwell  (Surtees  Soc.,  xxii;  1857),
+pp. 233,  238,  and Extracts  from  the account  rolls  of the abbey  of Durham  (Surtees  Soc.,
+Xcix,  c, ciii;  1898-1901),  ii, p. 384),  85 (equipment).
+schingelneyl  gen.  or abl. pl.. schyngelnayl  abl. pl.: nails  for fixing  shingles  (OED  shingle  sb! ;
+Salzman,  Build.  in Eng.,  p. 311),  65, 73 (costs  of buildings  in each).
+scholaris,  etc.:  scholar,  student.  In gen.  pl. extended  throughout  to forms  in -ium  (MSS.:
+'scolarium'  gen.  pl. 84 (heading),  107;  etc.).
+Nomi  abl.  pl.:  planed  boards  (Salzman,  Build.  in Eng.,  pp. 243-4),  65 (costs  of build-
+ings
+Schrud"  ger.:  to fit (a plough)  with  mould-board  (?: OED  shroud  v' ; cf. vestire  carucas,  as on
+77, 78, 81 (costs  of ploughs  in each)),  80 (costs  of ploughs).
+Schyngelnayl,  see schingelneyl.
+Schytsned,  see scyetsned.
+Scindula:  shingle,  wooden  tile.  ceng"l'  ab/.  pl. 64 (costs  of buildings);  scingul’  acc.  pl., gen.  or
+abl. pl. 66 (petty  exp.);  scingulorum  gen.  pl. 65 (costs  of buildings).
+Scirpus:  rush  or rushes.  cirpul’  ab/.  100.
+
+co; to cut. scecand'  ger.  59 (petty  exp.),  — — edo  Wn  dcdiriMod curie: suit of court. Extended  throughout  with both words sing., secta curie; never
+fully extended  on the MSS.  n dlMid axe. scecur’ abl. 60 (petty exp.). In abl. sing. extended  throughout  to 'secure';
+never  extended  in this case  on the MSS.  Rinne  )
+ium:  , malt  dregs.  segetimi  gen. petty  exp.).i aa QT (OED ets ES or, poatibly,  chisel or other cutting tool (EDD seat sb?),
+88.
+sel-,  etc.:  saddle.  Extended  throughout  to forms  in -//a (MSS.  : ‘sellis’  abl. 71 (costs  of carts);
+‘noua  sell’’  abi.  s. 73 (costs  of carts);  etc.).
+sem-:  seed  or sowing.  For  hands  xii, xvii,  extended  to seminandum  where  it means  ‘sowing’,
+otherwise  extended  throughout  to semen  (MSS.:  hempseed  bought  ‘ad seminand’’  59
+(purchase  of corn),  66 (petty  exp.);  corn  bought  ‘pro  semine’  67, 83 (purchase  of corn  in
+each);  ‘tempore  seminis’  82 (threshing);  etc.).
+sem-:  seed-basket.  seminile  acc.  s. 48; seminil’  ab/.  s. 79 (petty  exp.).  Extended  throughout  to
+semilo  (MSS.:  ‘In vno  semilone’  (i.e.  masc.)  64 (petty  exp.);  ‘semilon’’  ab/.  s. 82 (petty
+exp.);  etc.).
+seminator:  sower.  With  reference  to the sower  who  gave  tallies  for corn  sown  and  received  a
+customary  gift,  extended  throughout  to sing.  (MSS.:  ‘seminatoris’  gen.  82, 85 (wheat  in
+each)).
+senescallus:  steward.  Hand  xxiii  writes  scenescall  varying  cases  on 69 passim,  71 passim  and
+113 only.  Extended  with  scha  only  if written  thus  on the MS.
+sengler  abl.  s.: boar  (OED  sanglier),  30 (beans).
+seper',  see coepo.
+sepes  fem.:  hedge.  'sepes  suos'  occurs  on 111.
+sepon',  see sebum.
+septendecim:  seventeen,  septemdecem  59 (petty  exp.).
+serro:  to Saw.  saraxand’  ger.  63 (petty  exp.).
+sertificand’,  sertificatum,  sertiuicand’,  see certifico.
+sial’,  see sowelis.
+sicer-,  etc. : cider.  sisar’  gen.  59 (issues  of manor);  sysar’  gen.  61 (issues  of manor,  petty  exp.).
+Extended  throughout  to forms  in -a (MSS.  : 'cyzere'  gen.  71 (cider);  ‘Cizera’  nom.  85 (cider)).sithe  nom.  s.: scythe  (OED  scythe  sb),  48.
+sito,  see cito.
+slabys  abl.  pl.:  slabs,  pieces  (OED  slab),  61 (costs  of carts).
+solar-,  etc.:  solar,  upper  room.  Extended  throughout  to solarium,  which  occurs  fully  extended
+on unpublished  Cuxham  accounts  in hands  xxi,  xxiii  (MM  5824,  5836,  5837,  5872  (costsof buildings  in each)).
+solweton  abl.  s.: part  of plough  (first  element  OED  sullow),  78 (costs  of ploughs).
+Sor  masc.  acc.  s.:  unmoulted,  in red  plumage  (of  a hawk  in its first  year)  (OED  sore  a’),  l.sortibili  neut.  abl.  s.: divided  by lot (of meadows),  83 (mowing  and  hoeing).sowelis  abl.,  sial’  nom.  pl., soules  abl. pl., sowlys  abl. pl.: stakes  used  for sides  of cart  (see  60for definition,  and  cf. OED  sowel  and  EDD  sole  5b! (4) as well  as cartsoulles  above),  60,62, 65 (costs  of carts  in each),  48.
+Spaynia:  Spain.  See  ferrum.
+Spina  nom.  s., spinam  acc.  5.: copse,  thicket,  9, 23.
+Sporta:  basket.  sportos  acc.  pl. 48.
+
+e: acc. pl.: stalls (in a byre),  78 (petty  exp.).
+stad’ acc.: place (?: OED stead),  62 (costs of hall).
+nom. pl.: staples  (OED  staple  sb!), 85 (equipment).
+staur-: stock. Extended  throughout  to staurum  (MSS.: ‘staurum’  62 (heading  of stock
+account);  etc.).
+Steph-: man's name. Extended  throughout  to Stephanus  (MSS.:  ‘Stephanus’  nom. 16; etc.).
+stipendium:  wages. Extended  to pl. if more than one recipient;  never extended  on the MSS.
+in such a case. Recipient  extended  to gen. after stipendium,  but to dat. in consecutive
+entries where stipendium  is understood  instead of being repeated  (MSS.: 'In stipendio
+vnius carect ... Item duobus  tentor’ caruc’’ 68 (wages);  ‘In stipend’  ij tentorum’  81
+(wages);  "lohanni  Cartere’  85 (wages);  etc.). Hand xii writes ‘in stipend’  ... duobus
+ten’ caruc’’  62 (wages),  ‘in stipend’  bercario’  63 (wheat).
+stipula: stubble.  Extended  throughout  to sing. (MS.: ‘stip’la’  abl. 64 (issues of manor)).
+stipulac’  ab/.: gathering  stubble,  61 (petty  exp.).
+stirpirnes(?)  nom. pl.: stirrups  (OED  stirrup-iron),  48.
+stocbend"  abi. pl.: bands round hubs of wheels (OED stock sb! (26), bend sb’ (2); cf. fretta
+above),  67 (for. exp.).
+del stokkes  gen.: stocks for punishment  (OED stock sb! (8)), 78 (for. exp.).
+straca, etc.: iron plate connecting  felloes on outer rim of wheel (Drew,  Notes;  cf. OED
+strake sb!, EDD strake sb! (2)). strakes  nom. pl., 37, 83 (costs of ploughs),  gen. pl. 82
+(costs of ploughs),  ab/.(?)  pl. 82 (costs of ploughs);  strakys  abl. 58, 59, 61 (costs of carts in
+each). ‘strakis’  abl. pl. occurs on 64 (costs of carts). Otherwise  not extended  on the MSS.
+strig-, etc.: curry-comb.  strigilo  ab/. s. 81 (petty exp.). Extended  throughout  to strigilis
+(MS.: ‘strigil’’  abl. pl. 64 (costs of carts));  never fully extended  on the MSS. except  as
+above  on 81.
+sua,  suarum,  see  sus.
+succido:  to fell. succisiderunt  perf. indic. 131. Hand xxiv also writes  ‘succiderunt’  perf.
+indic.  132.
+Suis,  see sus.
+suo 3rd conj.:  to sew.  suand"  ger. 69 (costs  of carts).
+super prep. with acc. or abl.: on or over, etc. Except  in the phrase  super  articulis  in the court
+rolls, noun  following  is extended  throughout  to acc. (MSS.:  'super  oua' 59 (geese);
+"super  duas grangias’  67 (costs  of buildings);  ‘super  comp'm'  82 (note  after cash balance);
+super  certis  articulis"  134; etc.).  Hand  xxiii  writes  ‘super  iiij"  v acris  et iij rodis’  70 (wheat)
+and possibly  *super...j  roda'  72 (wheat),  but also ‘super  vnam  dimidiam  acram'  75
+(barley),  ‘super  cameram"  73 (repair  of buildings),  etc. Hand  xxix writes  ‘super  racionabili
+premunicione'  144.
+Supprimebatur  imperf.  indic.,  suppresso  past  part.:  to squash,  60 (sale  of stock,  pigs).
+Sun esione  abl.:  squashing,  59 (piglets).
+pce  Hand  xii writes  suarum  gen.  59 (piglets),  suis abl. pl. 62, 63 (sows  in each),  but
+li Vénihis  59 (pigs),  62, = gs  in each),  ‘suibus’  abl. pl. 63 (peas).  Hand  xxi writes
+boi:  . $. 67 (petty  exp.),  but ‘sue’ abl. s. 68 (dredge).
+pe  : support.  Extended  throughout  to sustentacio  (MSS.  : 'sustentacione'  abl.  64 (peas);
+Suucule  gen.  s., suuculis  ab : i Sysar’, see sicer-, abl. pl.: young sow, 67 (piglets),  68 (petty exp.).
+
+1
+‘ ly demands pl. form. The wo
+mam UCM e conumon phrase 'per talliam. useof sing. 10 the common phra À
+RS m was involved; it might be taken to mean “by tally
+very seldom extended
+. need not implythat only à
+rather than ‘by a tally’.
+talliator nom.: person giving a tally, 81 (wheat).
+talwode ab/.: wood for fuel (OED talwood), 70 (for. iis
+ich abl.: tar (OED tar sb), 67, 68 (petty exp. in each). "t ,
+pe tar. abl. 71 (petty exp.). For hand xxx extended to tarrum (MS.: 'eodem' 84
+(costs of fold)),  otherwise  to forms in -a. pain  pta  or
+i t oe de
+tasc-: piece-work.  For hands vi, x, xxiii and on 4] exten: d Mee
+57 EC exp.); 'ad tascham' 35 (wheat), 41 ; ‘ad tasch’’ 77 (threshing);  etc.). For other
+nds extended  to fasca.  4 *
+et s stack. For hand xii extended to tassa, otherwise to forms in -us (MSS.: ‘magne
+tass’’ gen., 'vna tass’’ abl., 59 (petty exp.); ‘vnus tassus’ nom. 66 (note after cash balance);
+‘tasso’ abl. 68 (hoeing and mowing);  etc.). Extended  throughout  to sing. for the tass
+raised  as a customary  service  by the cottagers.
+taxator:  assessor  of taxes. taxtatorum  ger. pl. 60 (cheese).
+tegul-,  etc.: tile. Extended  throughout  to forms  in -a.
+teises abl. pl.: fathoms,  measure  of 6 feet (OED teise), 64 (petty exp.), 66 (costs of carts).
+tempestiue:  in bad weather  (MLWL  tempestivus),  84 (plough  boonworks).
+tenementum  neut. noun: tenement,  holding.  Referred  to, acc. s., as ‘eum’ and, possibly,  as
+‘eumdem  ten''  on 92.
+tenentium  car’ gen. pl., car’ tenent’  gen. pl.: plough-holder,  ploughman  who guides  the
+plough,  59, 60 (wages  in each).
+terict’,  see tracto.
+terra:  land or arable  land. terra abl.: clay, earthenware,  67 (costs  of dairy).  For hand  xxx
+mince  otherwise  to sing. (MSS.:  ‘terris’  abl. pl. 85 (wheat);  ‘terre’  gen. s. 71
+terrea  fem.  abl. s.: of clay,  earthenware,  59 (petty  exp.).
+teylrip  nom.:  boonwork  of reaping  at the end of harvest,  27.
+thilles  ab/. pl.: shafts  of cart,  sled (OED  thill’),  48, 71 (petty  exp.),  73 (costs  of carts)
+thystres  abl.: part of plough-harness  (MLWL  thistrum),  77 (costs  of ploughs)  i
+tiwelpin  gen. or abl. pl., tylpinnes  gen. or abl. pl.: tile-pins,  pegs for fixi n um :(OED tile-pin; Salzman,  Build. in Eng., pp. 233-5) Gas  f Eres  a oa Racialbuildings,  cost of mill). : of new granary),  85 (costs of
+tolcest-,  etc.:  toll  on ale breweExtended  throughout  to E s iuis  mont sol Sstalsestraminom.  sii 12.
+tolcorn  ab/.: multure,  corn retained  by miller a poop ina unambiguously  demands  pl.
+tolpeni nom., tolpeny nom.: toll on ale brewed S eT for grinding  (OED toll sb’), 108.
+tolpot acc.: toll on ale brewed  for sale Sus.
+tolsestrum,  see tolcest-.
+ger.,  tonsur'  ger.:  to shear  (sheep),  70, 7 itorane?  pres. part.: to dry in a kiln (th =P); 0, | (petty  exp. in each).
+ss (petty exp.). us ‘clad’ toranc"':  hurdles  for use in the malt-kiln)
+otus, -a, -um: i à
+tract-, trahic-, ve slhe Sl ee(Neilson,  Cust.  rents,  pp. 36, 39), 90
+(rods,  withies)  are bo: 
+O hernesio  caruc''  in; ught  ‘ad  traic’’ 1à  
+: 
+es  of virge ‘p  
+si  
+SEà : on  sn  S i Recessaria  caruc’’  on 77 (costs  of C i à Sr Ie  ii à s 4sFor hand nded to forms  in ‘-ium’  ace. 5., "-iarum' gen.  pl “A pre  esPl. or ‘-iis’  abl.  pl.,  and  for  all
+
+tremes  abl.: spring-corn  (MLWL  trimenstruum),  65 (harvest  exp.).
+trendeles  acc. pl.: vessels,  tubs (OED  trendle  sb), 48.
+acc.: lantern-wheels  (OED  trendle  sb, trundle  sb), 68 (costs of mill).
+trestellum  : trestle.  trescell’  acc. pl. 48.
+tribul-: tool or shovel. Extended  throughout  to tribula (MS.: ‘vna tribula ferrata’  abl. 68
+(petty  exp.)-
+tripes:  tripod,  trivet.  tripodem  acc. s. 48.
+trituro: to thresh.  For hand xxx extended  to ‘triturantur’  when this fits context  (MS.:
+*triturantur'  84 (dredge)).
+trou nom. s.: trough  (OED  trough),  37.
+truelle  nom. s.: trowel  (OED  trowel),  48.
+truncis abl. pl.: length,  roll of cloth (?: no related  word traced,  and it may be simply  trunk,
+chest,  box, as MLWL  truncus),  74 (rents  of mills).
+tumberell-:  tumbrel,  dung-cart.  Extended  as tumberellus  or tumberellum  (MS.: ‘pro vno
+tumberell’’  71 (petty  exp.));  never occurs  in the texts in nom. sing.
+tylpinnes,  see tiwelpin.
+tynys gen. pl.: tubs (OED  tine sb?), 62 (petty  exp.).
+ultra:  beyond.  See mensura.
+unctio ovium:  sheep salve. vncione  ouium ab/. 59 (petty exp.).
+unde: of which.  ‘de vj caponibus  . . . vn’ iij caponibus  . . . miss’ super comp''  occurs  on 64
+(capons;  similarly  chicks).
+ung-: to anoint.  For hand xii extended  to unguo,  otherwise  to ungo (MSS.:  'vnguend"'  ger. 63
+(costs of ploughs,  petty exp.); 'vngend"'  ger. 71 (costs of carts); 'vngere'  infin. 83 (costs of
+fold)).
+usque:  until.  usique  62 (barley).
+ustilmenta  neut. pl.: household  goods,  utensils.  hostiliamenta  acc. pl. 108; vtencil’  nom.,  acc.
+147.
+ustrina:  malt-kiln.  ostrinium  acc. 65 (petty  exp.).
+vsum  acc. s.: crop  or year's  use, 81 (issues  of manor).
+vt: that is (arising  perhaps  from ‘videlicet’  abbreviated),  82 (hoeing),  83 (mowing  and hoeing),
+84 (costs  of carts,  hoeing),  possibly  78 (dredge),  80 (for. rec.), 84 (cash  liveries),  85 (barley
+with  dredge,  peas).
+vtencil’,  see ustilmenta.
+vaccarius:  cowherd.  waccar’  dat.  67 (wages).
+valent-:  value.  Extended  throughout  to valencia  (MS.:  ‘valenciam’  acc.  110).
+vang-:  spade,  Extended  throughout  to vanga  (MSS.  ‘vanga’  nom. s. 85 (equipment),  abl. s.
+70 (petty  exp.)).
+vanna  abl. s.: flat basket  or shovel  (OED  fan sb!, van sb! ; but in this case  not for winnowing,
+as bought  for bake-house),  69 (for. exp.).
+vasa  acc.:  barrels,  tubs,  53,  107.
+vedelicet,  see videlicet.
+"e m . nom. s.: tanned  (?: apparently  synonymous  with ‘tann’’  on 83), 83, 84 (hides  in
+NA  d past part.:  sale or sold.  In paragraph  headings  extended  to vendicio  with gen.
+or hand  xvii)  if it is thus  the first  noun  in the heading,  otherwise  to venditus,  -a,
+-um (MSS.:  (ven]ditio  ord’?  64; ‘Ordium  venditum'  i a /
+f i ; enditum'  66; 'Vi *:78; Friend  Veud ^ Oc uv en 30. endicio  stauri'  78; etc.).
+
+versus:  towards. See duco. : : -"vertiuella'  abl. s. 66 (petty  exp.)).i vert-  ed  Extended  throughout  mnie MS  ve  E um ao  ESSE.
+ves-: vetch. vessibus  ab/. 147. For hand xii extende  ER  wx xxiii, iS very inconsistent:
+for other hands extended  to forms in sc. The usage?  74 (vetch). Extended  throughout  to
+thus forms in ss, sc both occur in 68 (vetch) and in 74 ( eren  dee NARI  oie),
+pl. (MSS.: "vesse' nom. 72 (vetch); “Vesce’ nom. 85 (velo
+SEN" gene  m (Rm as mee aes  after cash balance).
+vescosus:  mixed with vetch. vescat. neut. 6. ^ e as cor, 82, 84, 85 (costs of ploughsvestio 4th conj.: to fit (plough)  with mould-board.  vestiand’  ger. 82, 54,
+in each).
+veterlokes  abl. pl.: fetterlocks,  to prevent  horse fr
+T  tie Hand xvii writes vetera fem. nom. 5. 64 (petty exp.) but also *veteres' fem.
+nom. pl. 64 (geese). With gen., ‘trium annorum  uet": three years old, 59 (issues of manor).
+In abl.'sing.  extended  throughout  to veteri (MSS.:  77 (dredge),  84 (issues  of manor),  etc.).
+vicem:  time, occasion.  per vices: on various  occasions,  57 (costs of carts),  69 (reeve's
+exp.), 70 (for. exp., reeve's  exp.), 71 (reeve's  exp.), 72 (cheese,  milk),  76 (rents  of mill),
+71 (costs of ploughs),  79 (milk),  80 (costs  of ploughs),  81 (shoeing  horses,  petty exp.),
+123,  134.
+videlicet:  that  is. vedelicet  29.
+vill-:  village.  Extended  to villa where  it apparently  means  the place,  to villata  where  it means
+the inhabitants  (MSS.:  ‘villa’  abl. 63 (sale of stock);  ‘totam  villat’’  acc. 97; etc.).  On 98
+‘Tota  villata’  is followed  by a pl. verb,  ‘concelauerunt’.
+vincula  Sancti  Petri:  Lammas.  vincelam  Sancti  Petri  acc.  2.
+virga:  stick.  Extended  to pl. unless  context  unambiguously  demands  sing.  (MS.:  "virgis
+abl. 15 (costs  of ploughs)).
+virgat’  abl.  pl.: roods,  quarter-acres,  51.
+viridis,  -e: green.  virio  neut.  abl.  s. 99.om straying  (OED  fetterlock,  veterlok),
+viscer-,  etc.:  offal.  Extended  throughout  to neut.  pl. forms  in -a; never  extended  on the  MSS.
+viscera  porc'  extended  to viscera  porcorum,  or to viscera  porci  if clearly  only  one  pig's
+offal  involved;  never  extended  on the MSS.
+vither'  masc.  abl.  pl.:  ploughshare  (?: cf. Custumals
+Canterbury,  ed. B. C. Redwood  and  A. E. Wilson
+(costs  of ploughs).
+v : fish- iSeem  A Extended  throughout  to sing.;  never  extended  on the  MSS.
+voco:  to call.  vocat  ad recordum  pres.  indic.:
+vomer  masc.:  ploughshare.  *vomer'  acc.  s.,
+gen.  s., i.e. fem.,  on 78 (costs  of ploughs).
+waccar’,  see  vaccarius.
+War-:  warrant  or warrant  Extended  throu,  hout  to war  ig rron5 thi 7 i i they g arantia,  with  single  r unlessof the Sussex  manors  of the archbishop  of
+(Sussex  Record  Soc.,  lvii;  1958),  p. 4), 58
+to call  to witness,  114.
+1.€.  neut.,  occurs  on  48,  and  'j noue  vomeris*
+wara:  weir.  ware  acc.  102.
+ward’  abj.:  guard,  keeper,  99.
+Warect-  noun  or adj.:  fallow  land  or fall ow.  ; ;warectatus,  -a, -um if an adj. (MSS.:  Extended  to warecta  if clearly  a noun,  to“Warecta’  abi.  130;  “Warectatis’  abl.  pl, 108).
+
+NOUNS
+Gender.
+Number.
+Case.
+ADJECTIVES
+Declension.B. GRAMMAR  AND  SYNTAX
+For correct  use of fem. for names  of trees  see fagus,  fraxinus.  ‘eundem’  is
+used  to refer  to the English  cogwe/  on 73 (costs  of mill).
+For errors  of gender  see haia,  petra,  sepes,  transgressio  and,  possibly,
+corda;  see also boviculus  for use of masc.  noun  referring  to female  stock.
+Hand  xxi writes  ‘que dati fuerunt’  on 67, 68 (oats  in each)  and hand  xxiii
+twice  writes  *quilibet  of mulieres,  77 (hoeing  and mowing);  ‘Matilde...
+defuncti  occurs  on 94, ‘pro dampna  facto’  on 99, ‘inparcata’  referring  to
+auce  on 108.
+Where  there  is only  a single  item  of stock  in a paragraph  on an account
+roll the heading  is extended  in the sing.  (MS.  : ‘Taurus’  76). ‘Apri’,  however,
+occurs  in such  a case on 64, ‘Hogastri’  on 67, ‘Sues’  on 71 and ‘Iercie’  on
+72. Where  an animal  is added  ‘cum...’  or ‘de...  .' the noun  is extended
+throughout  in the pl.
+For the cheese  paragraphs  in hand  xii the items  accounted  for in account-
+roll entries  are extended  in acc. (MS.:  *quolibet  die vnum  cas’’  65 (cheese);
+etc.),  but otherwise  in nom.  throughout  (MSS.:  ‘baco  de stauro’  67
+(visitors’  exp.);  ‘j capo’  70 (visitors’  exp.);  ‘j cecus'  84 (carthorses);  etc.).
+‘per noctem  j garbam’  occurs  on 68 (oats).
+Gen.  used  for age occurs  in ‘dimidii  anni’  58 (sale  of stock);  see also vetus.
+Noun  following  copulative  verb extended  throughout  to same  case as the
+subject  (MS.:  ‘vnus  factus  est equs’  62 (foals)).  ‘de x Hogerellis  rem’
+super  comp’  angni’  occurs  on 67 (hogerelli).
+Errors  of case mostly  arise  from  a tendency  to lapse  into the nominative,
+e.g. ‘cuidam  mercatori  de lond’  iam defunctus’  61 (gifts),  ‘In j pertica  et
+ij pedes  noui  muri’  65 (petty  exp.).
+3rd decl. adjectives,  including  present  participles,  extended  in abl. sing.
+to -e or -i following  the usage  of Classical  Latin  (MSS.:  *precedenti'  97;
+‘in separali  solo’ 107; etc.). More  often,  however,  the MSS.  use -e in all
+circumstances  for abl. sing. of present  participles  (‘faciente’  35 (petty  exp.);
+‘currente’  107; etc.). ‘separali’  ab/. s., though  used as a noun,  occurs  on 127.
+For hands  xvii, xxiii,  comparative  adjectives  extended  to -i in abl. singular,
+otherwise  to -e (MSS.:  ‘maiori’  64 (sale of dairy  produce),  69 (cheese);
+*minore'  80 (sale of dairy  produce);  etc.). ‘priori’  occurs  on 77 (note  after
+cash balance:  hand xxv), ‘maiori’  on 80 (cheese),  'meliori'  on 97.
